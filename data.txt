@@ -237,13 +237,14 @@ U>1
 			N>Absolute
 			N>Intermediate
 		Q>According to the data presented in this graphic, which region of the world has experienced the greatest increase in annual CO2 emissions during 1950 to 2015.
-			I>
+			I>1681021240.jpeg
 			N>Asia and the Pacific
 			Y>China
 			N>United States
 			N>India
 			N>European Union
 		Q>One of the essential elements in geograhic inquiry is the understanding of the importance of scale. This image represents different interpretations of data across a unit of study at the national scale. Where are the highets concentrations of both agricultural production and development, as represented in the iamge in the state of Florida?
+			I>1681060432.jpeg
 			N>northern Florida
 			Y>southeastern coastal Florida
 			N>southwestern coastal Florida
@@ -262,18 +263,21 @@ U>1
 			N>Diffusion
 			N>Density
 		Q>This image can be interpreted as
+			I>1681060580.jpeg
 			N>a tourist area
 			N>a downtown area
 			N>an urban area
 			N>a rural area
 			Y>a suburban area
 		Q>This image of the suburbs of Phoenix, AZ is which type of image?
+			I>1681060580.jpeg
 			N>Chart
 			N>Grid Map
 			N>Map
 			Y>Remote Sensing
 			N>Quantitative
 		Q>The National Walkability Index ranks areas according to the access people have to safely walk from one place to another. This map illustrates the National Walkability Index for Chicago, Illinois and the surrounding areas. Which of the following agencies would most likely compile and provide this data?
+			I>1681060844.jpeg
 			N>The United Nations
 			N>The US Census Bureau
 			N>The Federal Reserve
@@ -286,6 +290,7 @@ U>1
 			N>Mental map
 			N>Functional region
 		Q>What organization would collect the type of data in this chart?
+			I>1681060882.jpeg
 			N>The United Nations
 			N>The World Health Organization
 			N>The Internal Revenue Service
@@ -304,13 +309,14 @@ U>1
 			N>Diffusion
 			N>Space-Time Compression
 		Q>This image highlights that annual mid-summer algae blooms in the North Atlantic off the coast of Iceland. Which of the following best represents Iceland's decision to employ NASA for use of the image?
-			I> didn't screenshot
+			I>1681060909.jpeg
 			N>This photo shows the Icelandic coast
 			N>NASA is associated with the Icelandic Scientific Society
 			N>Iceland does not employ mapping technology
 			Y>The satellite image employs analytical scale opportunities.
 			N>The image is free for public viewing.
 		Q>Florida is known as an agricultural state with mixed land use. According to this image, where is the highest density of residential areas located?
+			I>1681060921.jpeg
 			N>In the central region
 			Y>Along the southeast coast
 			N>Bordering the west coast

@@ -5,7 +5,7 @@ import os
 import main
 
 UNIT = 1
-PART = 1
+PART = 2
 
 unit_lines = main.get_unit_lines(UNIT)
 part_lines = main.get_part_lines(unit_lines, PART)
