@@ -48,13 +48,12 @@ question_text_var = tk.StringVar()
 tk.Label(root, textvariable=question_text_var, font=('Arial', 18, 'bold'), wraplength=1000).pack()
 
 
-def get_image(name):
+def get_image(name, height=300):
     image_a = Image.open(f'images/{name}')
     image_a_width, image_a_height = image_a.size
     image_ratio = image_a_width/image_a_height
 
-    image_b_height = 200
-    image_b_size = (int(image_b_height*image_ratio), int(image_b_height))
+    image_b_size = (int(height*image_ratio), int(height))
     return ImageTk.PhotoImage(image_a.resize(image_b_size))
 
 images = {image: get_image(image) for image in os.listdir(path='images')}
