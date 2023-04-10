@@ -368,14 +368,14 @@ U>1
 			N>Environmental activists influence cultural change
 			N>The environment is altered as preferred by human needs
 		Q>The map illustrating weather patterns in the United States is which tyep of map?
-			I>a
+			I>IMG_0899.PNG
 			Y>Isoline map
 			N>Topographic map
 			N>Dot map
 			N>Choropleth map
 			N>Proportional circle map
 		Q>Which is not true of the picture shown here?
-			I>a
+			I>IMG_0900.PNG
 			N>The picture, taken in the Midwest, shows an example of a perceptual or vernacular region
 			Y>The picture was mostly likely taken in Pennsylvania, Virginia, or Maryland
 			N>Mememonee is an example of a toponym
@@ -399,13 +399,20 @@ U>1
 			N>Brazil, Argentina, Chile, and Peru are all countries have in this region.
 			N>The majority of the population speak a Romance language.
 			Y>The majority of the population are Protestant.
-		Q>The data on this map is addressing which of the following scales? ##################################################################################
-			I>a
+		Q>The data on this map is addressing which of the following scales of analysis?
+			I>IMG_0903.PNG
 			N>global
 			N>regional
 			N>world regional
 			N>local
 			Y>national
+		Q>The data on this map is addressing which of the following scales?
+			I>IMG_0903.PNG
+			Y>global
+			N>regional
+			N>world regional
+			N>local
+			N>national
 		Q>Geographers examine interactions across ________ and between ________.
 			N>locations; directions
 			Y>space; places
@@ -413,21 +420,21 @@ U>1
 			N>phenomena; attributes
 			N>sites; peripheries
 		Q>From top to bottom, these scale representations are a
-			I>a
+			I>IMG_0902.PNG
 			Y>fractional scale, verbal scale, graphic scale
 			N>graphic scale, fractional scale, verbal scale
 			N>fractional scale, graphic scale, verbal scale
 			N>graphic scale, verbal scale, fractional scale
 			N>verbal scale, fractional scale, graphic scale
 		Q>In a state that features abundant rainfall, year round temperate climate, and ample open land, which of the following agricultural products would you least expect to see produced in the agriculturally productive central region of Florida?
-			I>a stratification of florida 1.2
+			I>IMG_0893.PNG
 			N>Sugar cane
 			Y>Cattle
 			N>Soybeans
 			N>Citrus
 			N>Rice
 		Q>Which of the following would describe agricultural production in Tunisia as illustrated in the photo?
-			I>a tunisia photo from 1.2
+			I>IMG_0897.PNG
 			N>mechanized farming techniques
 			N>secondary level of economic activity
 			N>extensive agricultural production
@@ -440,14 +447,14 @@ U>1
 			N>North is to west
 			N>South is to east
 		Q>Referring to the map, which is true?
-			I>a
+			I>IMG_0904.PNG
 			N>This region is known as Southwest Asia
 			Y>Pakistan is west of India
 			N>The largest country in area in this region is Bhutan
 			N>Sri Lanka and Bangladesh are located to the north of the largest country in this region
 			N>Bangkok is a large city located in this region
 		Q>This graphic BEST exemplifies which of the Five Themes of Geography?
-			I>a
+			I>IMG_0905.PNG
 			Y>Human Environmental Interaction
 			N>Global Skills
 			N>Movement
@@ -459,48 +466,20 @@ U>1
 			N>Los Angeles County
 			Y>University of Tennessee, Knoxville Campus
 			N>Virginia
-		Q>Which of the following is not a type of scale found on a map? ################
+		Q>Which of the following is not a type of scale found on a map?
 			N>Representative fraction
 			Y>Spatial scale
 			N>Verbal scale
 			N>Graphic scale
-			N>Cognitive scale
+			Y>Cognitive scale
 		Q>This photo BEST describes Minneapolis' great
+			I>IMG_0906.PNG
 			N>Situation
 			N>Edge city
 			N>Demographic Transition
 			N>Sequent occupance
 			Y>Site
-		Q>
-			N>
-			N>
-			N>
-			N>
-			N>
-		Q>
-			N>
-			N>
-			N>
-			N>
-			N>
-		Q>
-			N>
-			N>
-			N>
-			N>
-			N>
-		Q>
-			N>
-			N>
-			N>
-			N>
-			N>
-		Q>
-			N>
-			N>
-			N>
-			N>
-			N>
+	P>4
 		Q>
 			N>
 			N>
