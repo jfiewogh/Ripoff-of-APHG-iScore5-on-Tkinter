@@ -1,0 +1,405 @@
+U>1
+	P>1
+		Q>A map projection that focuses on finding the true area or size of land masses but distorts shape.
+			N>Robinson Projection
+			N>Miller Projection
+			N>Mercator Projection
+			N>Azimuthal Projection
+			Y>Peters Projection
+		Q>A map that distorts the shapes and sizes of countries or other political regions to represent the frequency or intensity of a particular phenomena in that area.
+			N>Mercator Projection
+			N>Goode's Interrupted Projection
+			N>Homosoline
+			N>Choropleth Map
+			Y>Cartogram
+		Q>Arrangement of features in space; three main properties; density, concentration, and pattern.
+			N>Disamenity
+			N>Dot
+			Y>Distribution
+			N>Distortion
+			N>Demography
+		Q>Using a satellite system for determining the absolute location of places or geographic features.
+			N>Connectivity
+			Y>Global Positioning System (GPS)
+			N>Geographic Information System (GIS)
+			N>Fieldwork
+			N>Parallel
+		Q>A great spatial device for sea navigation that accurately shows shape and direction, but distorts distance and size of places especially near poles.
+			N>Van der Grinten Projection
+			N>Cassini Projection
+			N>Robinson Projection
+			Y>Mercator Projection
+			N>Peters Projection
+		Q>Region that only exists as an idea based on different traits to different people and is therefore hard to draw clear boundaries.
+			Y>Perceptual Region
+			N>Formal Region
+			N>Concentration
+			N>Regionalization
+			N>Functional Region
+		Q>The work of a researcher collecting data and making observations in the natural environment about people, cultures, and nature.
+			N>Pattern
+			N>Independent Invention
+			Y>Fieldwork
+			N>Location Theory
+			N>Geocaching
+		Q>A compromise projection that was adopted by National Geographic in 1998 as a better projection that minimizes distortion in size, direction, and distance. Lines of latidude are slightly curved, nonparallel lines.
+			N>Mercator Projection
+			N>Winkel Tripel Projection
+			N>Peters Projection
+			N>Goode's Interrupted Projection
+			Y>Robinson Projection
+		Q>An area organized around a node or focal point (also known as a nodal region).
+			N>Vernacular Region
+			N>Perceptual Region
+			Y>Functional Region
+			N>Formal Region
+			N>Relic Region
+		Q>A map where dots are used to demonstrate the frequency or intensity of a particular phenomena.
+			N>Isoline Map
+			N>Symbol
+			N>Choropleth Map
+			Y>Dot Distribution Map
+			N>Thematic
+		Q>A map where the size of a symbol varies depending on the frequency of the variable being studied.
+			N>Dot Distribution Map
+			N>Isoline
+			Y>Proportional Symbol Map
+			N>Cartogram
+			N>Choropleth
+		Q>An area in which everyone shares in one or more distinctive characteristics (also known as a uniform region).
+			N>Perceptual Region
+			N>Functional Region
+			N>World Region
+			N>Vernacular Region
+			Y>Formal Region
+		Q>The relationship between the size of an object on a map and the size of the actual feature on Earth's surface.
+			N>Sense of Place
+			N>Range
+			N>Parallel
+			N>Meridian
+			Y>Scale
+		Q>Belief that the physical geography and climate have the ultimate determining factor over the success or failure of humans in regions.
+			N>Remote Sensing
+			Y>Environmental Determinism
+			N>Sense of Place
+			N>Possibilism
+			N>Spatial Interaction
+		Q>The geographic viewpoint that humans can overcome poor environments or develop despite the environment while still understanding that the environment can place limits or challenges to human development.
+			N>Cultural Barrier
+			N>Environmental Determinism
+			N>Time-Distance Decay
+			Y>Possibilism
+			N>Independent Invention
+		Q>A place where the location is between major points of influence. It is situated well or has a good relative location.
+			N>Absolute Location
+			Y>Centrality
+			N>Geocaching
+			N>Region
+			N>Site
+		Q>The change in accuracy (shape, size, distance, or direction) of a place when it is shown on a map.
+			N>Distribution
+			N>Accessibility
+			Y>Distortion
+			N>Region
+			N>Density
+		Q>The decline and eventual disappearance of a phenomenon with increasing space from its origin.
+			N>Mental Map
+			N>Formal Region
+			N>Hearth
+			Y>Distance Decay
+			N>Pandemic
+		Q>24 regions or divisions of the globe approximately coinciding with meridians at successive hours from the observatory at Greenwich, England. Each is 15 degrees longitude.
+			N>Location Theory
+			N>Pattern
+			N>Scale
+			Y>Time Zones
+			N>Time-Space Compression
+		Q>A thematic map displaying lines that connect points of equal value; often used for weather or elevtion.
+			N>Dot Distribution Map
+			N>Fuller's Dymaxion Map
+			N>Planning Map
+			Y>Isoline Map
+			N>Proportional Symbol Map
+		Q>The reduction in time it takes to diffuse something to a distant place as a result of improved communications and transportation systems.
+			N>Distance Decay
+			N>Remote Sensing
+			N>Scale
+			Y>Time-Space Compression
+			N>Functional Region
+		Q>The science of obtaining information about objects or areas from a distance, typically from aircraft or satellites.
+			N>Scale
+			N>Geocaching
+			N>Geographic Information Systems (GIS)
+			Y>Remote Sensing
+			N>Prime Meridian
+		Q>The ability to gain new information by making observations locally, regionally, and globally.
+			Y>Changing Scale
+			N>Diffusion
+			N>Hearth
+			N>Density
+			N>Hierarchical Diffusion
+		Q>In 2014, China published a map of their country that included most of the South China Sea as part of their territory. Why is this noteworthy?
+			Y>They are attempting to bolster geopolitical claims through cartographic validation.
+			N>They are claiming islands historically populated by Chinese people.
+			N>They want to satisfy squabbles among fishermen.
+			N>They are hoping to clarify territorial claims.
+			N>They want to find a compromise with the Philippines.
+		Q>Which ethnicity is displayed using the county-level scale map of the continental United States shown here?
+			I>1680993516.jpeg
+			N>African-Americans
+			Y>Native-Americans
+			N>Italian-Americans
+			N>Mexican-Americans
+			N>Asian-Americans
+		Q>The position of a place in relation to another place. Sometimes the word "situation" is used.
+			N>Toponym
+			N>Place
+			Y>Relative Location
+			N>Site
+			N>Absolute Location
+		Q>An individual's perception, impression, and understanding of how space is laid out in a region.
+			N>Remote Sensing
+			N>Sense of Place
+			N>Perservation
+			N>Cultural Ecology
+			Y>Mental Map
+		Q>A systematic transformation of locations on the surface of a round 3D Earth on a flat piece of paper.
+			N>Remote Sensing
+			N>Time-Space Compression
+			N>Scale
+			N>Generalized Map
+			Y>Map Projection
+		Q>A map projection where the shapes and sizes of landmasses are shown accurately by cutting through the oceans like an orange peel.
+			N>Molleweide Projection
+			Y>Goode's Interrupted Projection
+			N>Azimuthal Equidistance Projection
+			N>Robinson Projection
+			N>Peters Projection
+		Q>Identifies a precise location/place often through latitude and longitude of a certain place.
+			N>Realm
+			Y>Absolute Location
+			N>Isopleth
+			N>Situation
+			N>Relative Location
+		Q>A collection of computer hardware and software that permits spatial data to be collected, recorded, stored, retrieved, manipulated, analyzed, and displayed to the user in layers or all at once.
+			Y>Geographic Information Systems (GIS)
+			N>Geocaching
+			N>Goode's Interrupted Projection
+			N>Greenwich Mean Time
+			N>Global Positioning System (GPS)
+		Q>The geographic arrangement of objects in space.
+			N>Ecosystem
+			Y>Pattern
+			N>Situation
+			N>Density
+			N>Cluster
+		Q>A thematic map that uses tones or colors to represent spatial data as average values per political unit area.
+			N>Distance Decay
+			N>Isoline Map
+			N>Proportional Symbol Map
+			N>Globalization
+			Y>Choropleth Map
+		Q>The physical characteristics of a place (soil, hilly, dry).
+			N>Mental Map
+			Y>Site
+			N>Situation
+			N>Spatial Interaction
+			N>Relative Location
+	P>2
+		Q>A type of map that shows the quantity of particular data or phenomena by color of areal units is a
+			N>Isopleth
+			Y>Choropleth
+			N>Topographic
+			N>Proportional Circle
+			N>Dot
+		Q>Which of the following is an example of relative location?
+			N>My address is 123 Roanoke St.
+			N>The northwest corner of 23rd St. and Duck Ave.
+			N>GPS coordinates
+			N>Mercator Projection Map
+			Y>I live next door to John F. Kennedy High School
+		Q>Which of the following is the LEAST best example of a formal region?
+			Y>Philadelphia Metropolitan Area
+			N>Humid Continental Climate Zone
+			N>Basque-speaking region of Spain
+			N>South Carolina
+			N>Appalachian Mountains
+		Q>Which of the following is the BEST example of a perceptual region?
+			Y>Dixie
+			N>France
+			N>Texas
+			N>Puerto Rico
+			N>Manitoba
+		Q>A pizza delivery area is what type of region?
+			Y>Functional
+			N>Relative
+			N>Formal
+			N>Absolute
+			N>Intermediate
+		Q>According to the data presented in this graphic, which region of the world has experienced the greatest increase in annual CO2 emissions during 1950 to 2015.
+			I>
+			N>Asia and the Pacific
+			Y>China
+			N>United States
+			N>India
+			N>European Union
+		Q>One of the essential elements in geograhic inquiry is the understanding of the importance of scale. This image represents different interpretations of data across a unit of study at the national scale. Where are the highets concentrations of both agricultural production and development, as represented in the iamge in the state of Florida?
+			N>northern Florida
+			Y>southeastern coastal Florida
+			N>southwestern coastal Florida
+			N>western coastal Florida
+			N>panhandle area of Florida
+		Q>The area surrounding Fresno, California is known as the raisin capital of the world. This is known as what type of region?
+			N>Perceptual
+			Y>Formal
+			N>Vernacular
+			N>Functional
+			N>Valley
+		Q>Comparing home values at a neighborhood level versus the state or national level is an example of what geographic principle?
+			N>Cultural Landscape
+			N>Ecumene
+			Y>Scale
+			N>Diffusion
+			N>Density
+		Q>This image can be interpreted as
+			N>a tourist area
+			N>a downtown area
+			N>an urban area
+			N>a rural area
+			Y>a suburban area
+		Q>This image of the suburbs of Phoenix, AZ is which type of image?
+			N>Chart
+			N>Grid Map
+			N>Map
+			Y>Remote Sensing
+			N>Quantitative
+		Q>The National Walkability Index ranks areas according to the access people have to safely walk from one place to another. This map illustrates the National Walkability Index for Chicago, Illinois and the surrounding areas. Which of the following agencies would most likely compile and provide this data?
+			N>The United Nations
+			N>The US Census Bureau
+			N>The Federal Reserve
+			N>The World Bank
+			Y>The Environmental Protection Agency
+		Q>All Californias are surfers. This perceptual region is also known as a
+			N>Coastal region
+			N>Formal region
+			Y>Vernacular region
+			N>Mental map
+			N>Functional region
+		Q>What organization would collect the type of data in this chart?
+			N>The United Nations
+			N>The World Health Organization
+			N>The Internal Revenue Service
+			Y>US Census Bureau
+			N>The Federal Reserve
+		Q>Which of the following is a functional region?
+			N>Little Italy
+			N>Deep South
+			N>Sports team affiliations
+			Y>Federal Reserve Districts
+			N>Koreatown
+		Q>"Everything is related to everything else, but near things are more related than distant things" — Tobler's First Law of Geography. This quote is most closely related to which geographic concept?
+			N>Friction of Distance
+			N>Globalization
+			Y>Distance Decay
+			N>Diffusion
+			N>Space-Time Compression
+		Q>This image highlights that annual mid-summer algae blooms in the North Atlantic off the coast of Iceland. Which of the following best represents Iceland's decision to employ NASA for use of the image?
+			I> didn't screenshot
+			N>This photo shows the Icelandic coast
+			N>NASA is associated with the Icelandic Scientific Society
+			N>Iceland does not employ mapping technology
+			Y>The satellite image employs analytical scale opportunities.
+			N>The image is free for public viewing.
+		Q>Florida is known as an agricultural state with mixed land use. According to this image, where is the highest density of residential areas located?
+			N>In the central region
+			Y>Along the southeast coast
+			N>Bordering the west coast
+			N>In the northwest panhandle
+			N>Along the Georgia border
+		Q>A map drawn at which of the following scales would show the LEAST detail?
+			N>0.111111111
+			N>1:63,350
+			Y>1:500,000
+			N>1:24,000
+			N>1:250,000
+		Q>China has been widely regarded as part of the developing world for three decades. How has China's inclusion in the TFR data analysis of the developing world skewed the results?
+			N>The TFR levels for the developing world have gone up.
+			Y>The TFR for the developing world have gone down.
+			N>The TFR levels for the developed world have gone up.
+			N>The TFR levels for the developing world have remained the same.
+			N>The TFR levels for the developed world have gone down.
+		Q>
+			N>
+			N>
+			N>
+			N>
+			N>
+		Q>
+			N>
+			N>
+			N>
+			N>
+			N>
+		Q>
+			N>
+			N>
+			N>
+			N>
+			N>
+		Q>
+			N>
+			N>
+			N>
+			N>
+			N>
+		Q>
+			N>
+			N>
+			N>
+			N>
+			N>
+		Q>
+			N>
+			N>
+			N>
+			N>
+			N>
+		Q>
+			N>
+			N>
+			N>
+			N>
+			N>
+		Q>
+			N>
+			N>
+			N>
+			N>
+			N>
+		Q>
+			N>
+			N>
+			N>
+			N>
+			N>
+		Q>
+			N>
+			N>
+			N>
+			N>
+			N>
+		Q>
+			N>
+			N>
+			N>
+			N>
+			N>
+		Q>
+			N>
+			N>
+			N>
+			N>
+			N>
+U>2
+U>3
+U>4
