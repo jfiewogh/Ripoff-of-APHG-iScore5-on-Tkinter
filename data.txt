@@ -331,7 +331,7 @@ U>1
 		Q>China has been widely regarded as part of the developing world for three decades. How has China's inclusion in the TFR data analysis of the developing world skewed the results?
 			I>IMG_0891.PNG
 			N>The TFR levels for the developing world have gone up.
-			Y>The TFR for the developing world have gone down.
+			Y>The TFR levels for the developing world have gone down.
 			N>The TFR levels for the developed world have gone up.
 			N>The TFR levels for the developing world have remained the same.
 			N>The TFR levels for the developed world have gone down.
@@ -480,54 +480,92 @@ U>1
 			N>Sequent occupance
 			Y>Site
 	P>4
-		Q>
-			N>
-			N>
-			N>
-			N>
-			N>
-		Q>
-			N>
-			N>
-			N>
-			N>
-			N>
-		Q>
-			N>
-			N>
-			N>
-			N>
-			N>
-		Q>
-			N>
-			N>
-			N>
-			N>
-			N>
-		Q>
-			N>
-			N>
-			N>
-			N>
-			N>
-		Q>
-			N>
-			N>
-			N>
-			N>
-			N>
-		Q>
-			N>
-			N>
-			N>
-			N>
-			N>
-		Q>
-			N>
-			N>
-			N>
-			N>
-			N>
+		Q>Which of the following concepts is BEST illustrated in the photo shown here?
+			I>IMG_0907.PNG
+			N>Hierarchical diffusion
+			Y>Environmental determinism
+			N>Cultural diffusion
+			N>Sequent occupance
+			N>Space-time compression
+		Q>Denver, Colorado's high altitude, its location in the middle of the continent, and its cloudless skies ensure that satellite transmissions are clear and can reach both Tokyo and London with only one bounce from a satellite. Which of the following statements best represents this reality?
+			N>Denver's cloudless skies are a site factor; Denver's central location and altitude are situation factors
+			N>Denver's cloudless skies, altitude, and central location are all situation factors; none of the characteristics listed is considered a site factor
+			N>Denver's altitude is a site factor; Denver's central location and cloudless skies are situation factors
+			Y>Denver's cloudless skies and altitude are site factors; Denver's central location is a situation factor
+			N>Denver's cloudless skies, altitude, and central location are all site factors; none of the characteristics listed is considered a situation factor
+		Q>Which of the following situations would require the largest scale map?
+			Y>A map used to the pick out the BEST restaurants in Louisville, KY.
+			N>A map to show the location of illegal immigrants in the state of California.
+			N>A map illustrating the diffusion of lacrosse from Canada to the United States.
+			N>A map showing European explorers' routes around Africa, India, and North and South America.
+			N>A map depicting the location of universities in the Pacific Northwest.
+		Q>Which of the following terms is BEST associated with the photo shown here?
+			I>IMG_0908.PNG
+			N>Formal region
+			N>Perceptual region
+			N>Edge city
+			N>Vernacular region
+			Y>Functional region
+		Q>Which of the following map projections was often used by the U.S CIA and Soviet KGB as a way to identify areas of control and a means of propaganda during the Cold War era?
+			N>Fuller
+			N>Mercator
+			Y>Azimuthal
+			N>Robinson
+			N>Equal area
+		Q>A huge storm destroys ports near Cairo, Egypt. This would change
+			N>neither the absolute nor relative location of Cairo
+			N>both the absolute and relative location of Cairo
+			Y>the relative location of Cairo
+			N>the absolute location of Cairo
+			N>the relative direction of Cairo
+		Q>Which of the following 21st century global trends BEST illustrates the concept of time-space compression?
+			Y>Globalization
+			N>Balkanization
+			N>Commodification
+			N>Industrialization
+			N>Agglomeration
+		Q>Which of the following is least correct with regard to friction of distance?
+			N>The number of customers needed to keep a particular urban function open
+			N>Less people practice Islam in Beijing, China than in Kuala Lumpur, Malaysia
+			N>Fewer people speak Spanish in Lincoln, Nebraska than in Scottsdale, Arizona
+			Y>The overall effect on the number of sales of ubiquitous products and services
+			N>There are more Atlanta Braves fans in Alabama and Tennessee than in Oregon
+		Q>Arno Peters created this type of map.
+			Y>One in which Africa is considered by Peters to be of equal area relative to the rest of the world
+			N>One in which the entire former Soviet Union is shown as taking up all of the Asian continent
+			N>One in which Greenland is shown to be much larger than it really is
+			N>One in which Africa looks much smaller than it actually is in relation to the rest of the world
+			N>One in which Asia looks much larger than it actually does in relation to the rest of the world
+		Q>Which of the following types of projections maintains directional integrity?
+			N>Robinson projection
+			Y>Azimuthal projection
+			N>Equal-area projection
+			N>Gall-Peters projection
+			N>Conformal projection
+		Q>Japan was an inward-focused feudal society in 1854 when the United States "forced" open its doors to the outside world. However, due to its rapid industrialization and its associated relationship with the outside world, by 1906, Japan was able to defeat the Russians in a war, and by 1941, Japan attacked the United States. Japan's experience described above can BEST be described as
+			N>post-colonialism
+			N>mercantilism
+			Y>possibilism
+			N>Social Darwinism
+			N>environmental determinism
+		Q>Which of the following was a positive impact of the physical modification of the land via the use of polders in the Netherlands?
+			N>Increased fishing industry production
+			N>Increased available residential space
+			N>Decreased water pollution
+			N>Decreased food exports and increased food production
+			Y>Increased agricultural land and decreased dependence on food imports
+		Q>Measuring change over time and transport route planning would be completed most effectively using
+			N>acculturation
+			N>a local-global continuum
+			Y>Geographic Information Systems
+			N>U.S. Census data
+			N>solar time
+		Q>Maps have a tendency of revealing only some of the information and not the whole picture based on how they are created. Which of these terms BEST reflects a concept that a skillful map reader considers when gathering information from a map?
+			N>Globalization
+			Y>Data aggregation
+			N>Regionalization
+			N>Space-time compression
+			N>Random pattern
 U>2
 	P>1
 		Q>

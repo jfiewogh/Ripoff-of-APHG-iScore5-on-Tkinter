@@ -1,15 +1,20 @@
 import tkinter as tk
 from PIL import ImageTk, Image
 import os
+from pygame import mixer
 
-import main
+import notmain
 
 UNIT = 1
 PART = 2
 
-unit_lines = main.get_unit_lines(UNIT)
-part_lines = main.get_part_lines(unit_lines, PART)
-questions = main.get_questions(part_lines)
+mixer.init()
+correct_sound = 'sounds/correct.wav'
+wrong_sound = 'sounds/wrong.wav'
+
+unit_lines = notmain.get_unit_lines(UNIT)
+part_lines = notmain.get_part_lines(unit_lines, PART)
+questions = notmain.get_questions(part_lines)
 
 #a = [x for x in questions if 'Which ethnicity is displayed using the county-level scale map ' in x[0]]
 #questions = [questions[0]]*2 + a + [questions[0]] + a + [questions[0]]*5 + a
@@ -37,8 +42,11 @@ def submit_question():
         
         if all[question_choice.get()] in correct:
             total_correct += 1
+            mixer.music.load(correct_sound)
         else:
             total_incorrect += 1
+            mixer.music.load(wrong_sound)
+        mixer.music.play()
         
         update_question(question_num_var.get() + 1)
 
@@ -81,7 +89,7 @@ def update_question(question_num):
 
     if question_num < len(questions)+1:
         global correct, incorrect, all, image_label
-        question, image, correct, incorrect, all = main.get_question(questions[question_num-1])
+        question, image, correct, incorrect, all = notmain.get_question(questions[question_num-1])
 
         if len(image) != 0:
             image_label.pack()
