@@ -568,14 +568,289 @@ U>1
 			N>Random pattern
 U>2
 	P>1
-		Q>
-			N>
-			N>
-			N>
-			N>
-			N>
-U>3
-	P>1
+		Q>The pattern of the causes of death that are tied to the Demographic Transition Model. Death is tied to famine and pestilence in Stages 1 and 2 and more degenerative diseases in Stage 4 or 5.
+			N>Demographic Accounting Equation
+			N>Maternal Mortality Rate
+			N>Infant Mortality Rate
+			N>S Curve
+			Y>Epidemiological Transition Model
+		Q>Any forces or factors that limit human migration are known as
+			N>Intervening Opportunity
+			N>Diffusion Barriers
+			Y>Intervening Obstacles
+			N>Space Time Compression
+			N>Time Distance Decay
+		Q>Migration from a location.
+			N>Step Migration
+			N>Immigration
+			N>Brain Drain
+			Y>Emigration
+			N>Intranational Migration
+		Q>The average number of children born to a woman during her childbearing years is called the
+			N>Carrying Capacity
+			N>Crude Birth Rate
+			N>Baby Boom
+			N>Population Growth Rate
+			Y>Total Fertility Rate
+		Q>An official count of a country's population that occurs periodically is known as
+			N>Crude Birth Rate
+			Y>Census
+			N>Doubling Time
+			N>Natural Increase Calculation
+			N>Total Fertility Rate
+		Q>The number of years needed to double a population, assuming a constant rate of natural increase is the
+			N>Demographic Momentum
+			Y>Doubling Time
+			N>Natural Increase
+			N>J Curve
+			N>Population Growth Rate
+		Q>The set of places individuals encounter as a result of their routine activities in everyday life.
+			N>Distance Decay
+			Y>Activity Spaces
+			N>Mass Migration
+			N>Step Migration
+			N>Intervening Opportunities
+		Q>Human migration flows in which the movers have no choice but to relocate.
+			Y>Forced Migration
+			N>Immigration
+			N>Voluntary Migration
+			N>Step Migration
+			N>Great Migration
+		Q>Being able to maintain the needs of the present generation without compromising the ability of future generations to meet their own needs.
+			N>Epidemiological Transition Model
+			Y>Sustainability
+			N>Ecumene
+			N>Carrying Capacity
+			N>Non-Ecumene
+		Q>Based off the Demographic Transition Model, this claims that the type of migration patterns change as countries move through different stages of development.
+			Y>Migration Transition Theory
+			N>Laws of Migration
+			N>Epidemiologic Transition
+			N>Nutrition Transition
+			N>Emigration
+		Q>The study of human populations and breaking population data into subgroups is known as
+			N>Migration Transition
+			N>Population Pyramids
+			N>Cartography
+			N>Sustainability
+			Y>Demography
+		Q>The average number of years a person born in a given country would live if mortality rates at each age were to remain constant in the future is known as
+			N>Population Pyramid
+			N>Doubling Time
+			N>Age-Dependency Ratio
+			N>Total Fertility Rate
+			Y>Life Expectancy
+		Q>This type of region is typically defined as a chain of roughly adjacent metropolitan areas with very little to no rural land in between.
+			N>Urban Density Cluster
+			N>Metropolis
+			Y>Megalopolis
+			N>Chain Migration
+			N>Urban Hierarchy
+		Q>The idea that population is growing exponentially faster than the food supply needed to sustain it.
+			N>Boserup's Theory
+			N>Ecumene
+			Y>Malthusian Theory
+			N>Agricultural Density
+			N>Climate Change
+		Q>The presence of a nearer opportunity that greatly diminishes the attractiveness of cities farther away is called
+			N>Contagious Diffusion
+			N>Intervening Obstacles
+			N>Space Time Compression
+			Y>Intervening Opportunity
+			N>Globalization
+		Q>The number of deaths per thousand children within the first year of life is called the
+			N>Maternal Mortality Rate
+			N>Baby Bust
+			N>Demographic Momentum
+			Y>Infant Mortality Rate
+			N>Crude Death Rate
+		Q>Pattern where countries have a period of high birth rates and death rates, then followed by plunging death rates, producing a huge net population gain; this is followed by a convergence of birth rates and death rates at a lower overall level.
+			N>Demographic Momentum
+			N>Migration Transition Theory
+			N>Epidemiological Transition Model
+			Y>Demographic Transition Model
+			N>Brain Drain
+		Q>Ernst Ravenstein's theory of human migration in the 1880s that still forms the basis for modern migration theory.
+			N>Return Migration
+			Y>Laws of Migration
+			N>Great Migration
+			N>Brain Drain
+			N>Counter Migration
+		Q>The migration pattern when people locate to a certain place because family members or people of the same nationality previously migrated there.
+			N>Time Distance Decay
+			N>Immigrant Location Theory
+			Y>Chain Migration
+			N>Great Migration
+			N>Step Migration
+		Q>The parts of the Earth's surface occupied by permanent settlement.
+			N>Megalopolis
+			Y>Ecumene
+			N>Population Density
+			N>Agricultural Density
+			N>Malthusian Theory
+		Q>Used to determine the sex of a baby before it is born. Outlawed in some countries that prefer males where it is used to abort female fetuses.
+			Y>Gender Detection Tests
+			N>Expansive Population Policies
+			N>Ecumene
+			N>Carrying Capacity
+			N>Sex Ratio
+		Q>The number of deaths per thousand of women giving birth is known as
+			N>Infant Mortality Rate
+			Y>Maternal Mortality Rate
+			N>Crude Death Rate
+			N>Anti-Natalism
+			N>Baby Bust
+		Q>A person who is forced to migrate from his or her home country and cannot return for fear of persecution due to his or her race, religion, political opinion, nationality, or group.
+			Y>Refugee
+			N>Voluntary Migration
+			N>Exile
+			N>Internally Displaced Person
+			N>Step Migration
+		Q>Number of any variable per unit area (number of people per square mile).
+			N>Time-Space Compression
+			N>Pattern
+			Y>Density
+			N>Concentration
+			N>Cultural Complex
+		Q>Migration "within" a country; also referred to as interregional migration.
+			N>International Migration
+			Y>Intranational Migration
+			N>Immigration
+			N>Return Migration
+			N>Ravenstein's Theory
+		Q>Summarizes the amount of growth or decline in a population within a country during a particular a time period; takes into account both natural increase and net migration.
+			N>Net Migration
+			Y>Demographic Accounting Equation
+			N>Demographic Momentum
+			N>Population Growth Rate
+			N>J Curve
+		Q>A graphical illustration that shows the distribution of various age groups in a population.
+			N>Sex Ratio
+			Y>Population Pyramids
+			N>Demographic Squares
+			N>Dependency Ratio
+			N>Cohorts
+		Q>The number of people per given unit of land is
+			N>Agricultural Density
+			Y>Population Density
+			N>Natural Increase Calculation
+			N>Physiologic Density
+			N>Demographic Accounting Equation
+		Q>The permanent movement from one country to another.
+			N>Intranational Migration
+			N>Gravity Model
+			N>Refugee
+			N>Interregional Migration
+			Y>International Migration
+		Q>Which one of the following is the BEST example of the geographic term density?
+			N>New land was created from the East River by New Yorkers.
+			Y>The number of McDonalds restaurants in Manhattan, New York City has increased over time.
+			N>The English language spread from Great Britain due to colonization.
+			N>AIDS spread rapidly in some areas of Sub Saharan Africa.
+			N>Islam spread from Southwest Asia and eventually to Spain.
+		Q>The number of deaths yearly per 1,000 people in the population. Also known as mortality.
+			N>Brain Drain
+			Y>Crude Death Rate
+			N>Infant Mortality Rate
+			N>Maternal Mortality Rate
+			N>Life Expectancy
+		Q>Any period marked by a greatly increased birth rate but associated with a cohort of people born just after World War II until 1964 in a time of relative peace and prosperity. 
+			Y>Baby Boom
+			N>Dependency Ratio
+			N>Population Growth Rate
+			N>Baby Bust
+			N>Rate of Natural Increase
+		Q>The number of live births in a region per 1,000 people in the population. Also known as natality.
+			Y>Crude Birth Rate
+			N>Population Growth Rate
+			N>Total Fertility Rate
+			N>Infant Mortality Rate
+			N>Rate of Natural Increase
+		Q>The large-scale emigration of highly skilled citizens of a country who leave their countries to seek better opportunities based on their skills.
+			N>Migration Transition
+			N>Step Migration
+			Y>Brain Drain
+			N>Hierarchical Diffusion
+			N>Education Talent Removal
+		Q>Used to measure the pressure on productive population by taking the number of people who are either too old or too young to provide for themselves to the number of people who support them through their own labor.
+			N>Demographic Accounting Equation
+			N>Worker Proportional Equation
+			N>Demographic Transition Model
+			N>Population Pyramid
+			Y>Dependency Ratio
+		Q>Population growth measured as Crude Birth Rate over Crude Death Rate. It does not reflect migration patterns.
+			Y>Rate of Natural Increase
+			N>Demographic Momentum
+			N>Doubling Time
+			N>S Cure
+			N>Population Growth Rate
+		Q>Migration to a distant destination that occurs in stages from, for example, a farm to a nearby village and later to a town and a city.
+			N>Return Migration
+			N>Voluntary Migration
+			Y>Step Migration
+			N>Migration Transition
+			N>Forced Migration
+		Q>Net migration from urban to rural areas in more developed countries.
+			Y>Counter-Urbanization
+			N>Forced Migration
+			N>Stimulus Diffusion
+			N>Chain Migration
+			N>Return Migration
+		Q>What geographers call a formula that describes the level of interaction between two places, based on the size of their populations and their distance from each other.
+			Y>Gravity Model
+			N>Push-Pull Theory
+			N>Central Place Theory
+			N>Distance Decay
+			N>Doubling Time
+		Q>Explicit actions by a government like forced sterilization designed to reduce the chances of another sector of the population from reproduction.
+			N>Doubling Time
+			N>Expansive Population Policies
+			Y>Eugenic Population Policies
+			N>Restrictive Population Policies
+			N>Great Migration
+		Q>Migration to a new location.
+			Y>Immigration
+			N>Return Migration
+			N>Emigration
+			N>Counter Migration
+			N>Step Migration
+		Q>Pronatalist actions by governments to increase the number of babies or natural increase of a population.
+			N>Immigration Restrictions
+			N>Gender Detection Tests
+			N>Baby Boom
+			N>Anti-Natalist Policies
+			Y>Expansive Population Policies
+		Q>The amount of population the Earth can sustain given the quantity of food, habitat, water, and other life with the present infrastructure.
+			N>Sustainbility
+			N>Malthusian Theory
+			Y>Carrying Capacity
+			N>Life Expectancy
+			N>Population Density
+		Q>A theory of migration that says people migrate because certain things in their lives encourage them to leave, and certain things in a new place draw them in.
+			N>Gravity Model
+			N>Activity Spaces
+			Y>Push-Pull Theory
+			N>Chain Migration
+			N>Intervening Opportunities
+		Q>The dominant migration flow from countryside to city that continues to transform the world's population, most notably today in less developed countries.
+			N>Return Migration
+			N>Suburbanization
+			Y>Rural to Urban
+			N>Counterurbanization
+			N>Refugee
+		Q>Movement of an individual who consciously decides to locate to a new area.
+			N>Refugee
+			Y>Voluntary Migration
+			N>Expatriate
+			N>Step Migration
+			N>Forced Migration
+		Q>Antinatalist actions by governments to decrease the number of babies being born in a population.
+			N>Baby Bonuses
+			N>Pro-Natalist Policies
+			N>Immigration
+			Y>Restrictive Population Policies
+			N>Eugenic Population Policies
+	P>2
 		Q>
 			N>
 			N>

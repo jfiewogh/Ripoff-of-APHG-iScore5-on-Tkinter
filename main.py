@@ -1,14 +1,14 @@
 import tkinter as tk
 from PIL import ImageTk, Image
 import os
-from pygame import mixer
+#from pygame import mixer
 
 import notmain
 
 UNIT = 1
 PART = 2
 
-mixer.init()
+#mixer.init()
 correct_sound = 'sounds/correct.wav'
 wrong_sound = 'sounds/wrong.wav'
 
@@ -28,9 +28,9 @@ unit_select_buttons = [True]*7
 chosen = {}
 
 def click_unit(unit):
-    for checkbutton in chosen[unit]:
-	    checkbutton.set(1 if unit_select_buttons[unit-1] else 0)
-    unit_select_buttons[unit-1] = not unit_select_buttons[unit-1]
+	for checkbutton in chosen[unit]:
+		checkbutton.set(1 if unit_select_buttons[unit-1] else 0)
+	unit_select_buttons[unit-1] = not unit_select_buttons[unit-1]
 
 def create_unit_select(y):
 	tk.Button(choose_questions, text=f'Unit {y+1}', command=lambda: click_unit(y+1)).grid(row=0, column=y)
@@ -59,11 +59,12 @@ def get_questions():
 				questions += notmain.get_questions(part_lines)
 
 def start_button():
-	get_questions()
-	
 	global total_correct, total_incorrect, total
+
+	get_questions()
+
 	total_correct, total_incorrect, total = 0, 0, 0
-	
+
 	start_page.pack_forget()
 	quiz_page.pack()
 
