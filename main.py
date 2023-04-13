@@ -1,14 +1,14 @@
 import tkinter as tk
 from PIL import ImageTk, Image
 import os
-#from pygame import mixer
+from pygame import mixer
 
 import notmain
 
 UNIT = 1
 PART = 2
 
-#mixer.init()
+mixer.init()
 correct_sound = 'sounds/correct.wav'
 wrong_sound = 'sounds/wrong.wav'
 
@@ -48,20 +48,37 @@ for y in range(7):
 
 quiz_page = tk.Frame(root)
 
-def get_questions():
+def get_questionsfssfsfsf():
 	global questions
 	questions = []
 	for unit, parts in chosen.items():
+
+
 		unit_lines = notmain.get_unit_lines(unit)
+
+
 		for i, part in enumerate(parts):
+
+
 			if part.get() == 1:
+
+
+				print(unit, i+1)
+
+
 				part_lines = notmain.get_part_lines(unit_lines, i+1)
 				questions += notmain.get_questions(part_lines)
+
+	print('why')
+
+
+
+	print('yepsters')
 
 def start_button():
 	global total_correct, total_incorrect, total
 
-	get_questions()
+	get_questionsfssfsfsf()
 
 	total_correct, total_incorrect, total = 0, 0, 0
 
@@ -83,7 +100,7 @@ tk.Label(quiz_page, textvariable=results_var).pack()
 
 
 def submit_question():
-	#if question_choice.get() != -1:
+	if question_choice.get() != -1:
 		global total, total_correct, total_incorrect
 		total += 1
 
