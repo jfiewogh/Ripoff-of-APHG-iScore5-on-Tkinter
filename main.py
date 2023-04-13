@@ -2,11 +2,7 @@ import tkinter as tk
 from PIL import ImageTk, Image
 import os
 from pygame import mixer
-
 import notmain
-
-UNIT = 1
-PART = 2
 
 mixer.init()
 correct_sound = 'sounds/correct.wav'
@@ -46,41 +42,29 @@ def create_unit_select(y):
 for y in range(7):
 	create_unit_select(y)
 
-quiz_page = tk.Frame(root)
+def get_unit_part_questions(unit, part):
+	return notmain.questions(unit, part)
 
-def get_questionsfssfsfsf():
+
+def get_the_questions():
 	global questions
 	questions = []
 	for unit, parts in chosen.items():
-
-
 		unit_lines = notmain.get_unit_lines(unit)
-
-
 		for i, part in enumerate(parts):
-
-
 			if part.get() == 1:
-
-
-				print(unit, i+1)
-
-
 				part_lines = notmain.get_part_lines(unit_lines, i+1)
 				questions += notmain.get_questions(part_lines)
 
-	print('why')
 
+quiz_page = tk.Frame(root)
 
-
-	print('yepsters')
 
 def start_button():
 	global total_correct, total_incorrect, total
-
-	get_questionsfssfsfsf()
-
 	total_correct, total_incorrect, total = 0, 0, 0
+	
+	get_the_questions()
 
 	start_page.pack_forget()
 	quiz_page.pack()

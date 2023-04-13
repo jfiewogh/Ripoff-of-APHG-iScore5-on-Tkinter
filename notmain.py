@@ -4,6 +4,11 @@ file = open('data.txt', 'r', encoding='utf-8')
 lines = [x.strip() for x in file.readlines()]
 file.close()
 
+def questions(unit_num: int, part_num: int):
+	unit_lines = get_unit_lines(unit_num)
+	part_lines = get_part_lines(unit_lines, part_num)
+	return get_questions(part_lines)
+
 def get_unit_lines(unit_num):
 	unit_name = f'U>{unit_num}'
 	next_unit_name = f'U>{unit_num+1}'
