@@ -851,6 +851,198 @@ U>2
 			Y>Restrictive Population Policies
 			N>Eugenic Population Policies
 	P>2
+		Q>In what stages of the Demographic Transition Model would the rate of natural increase be the lowest?
+			N>Stage 2 and Stage 3
+			N>Stage 3 and Stage 4
+			N>Stage 1 and Stage 2
+			Y>Stage 1 and Stage 4
+			N>Stage 2 and Stage 4
+		Q>Country A has a birth rate of 40 per 1,000 and a death rate of 38 per 1,000. What stage of the Demographic Transition Model is Country A in?
+			Y>Stage 1
+			N>Stage 2
+			N>Stage 3
+			N>Stage 4
+			N>Stage 5
+		Q>According to the chart, will Country X or Country Z experience the fastest natural increase rate?
+			I>IMG_0909.PNG
+			N>Country Z will, because its crude birth rate is higher.
+			N>Neither of them will, because Country X has a natural increase rate below 2.
+			N>Country Z will, because its crude death rate is lower.
+			N>Country X will, because its crude birth rate is higher.
+			Y>Country X will, because its difference between the birth and death rates is greatest.
+		Q>Your grandparent went to Texas for college, your mother went to Texas, your older siblings went to Texas, and you were encoruaged to go to Texas as well. What phenomenon is this describing?
+			Y>Chain migration
+			N>Step migration
+			N>Circular mobility
+			N>Internal migration
+			N>Illegal migration
+		Q>To determine environmental stress in an area, a geographer would most likely require which of the following pieces of information regarding density?
+			N>Agricultural density
+			N>Area density
+			N>Arithmetic density
+			N>Mathematical desnity
+			Y>Physiological density
+		Q>As the projected population of the world is expected to level off in the next 30 years, which country is expected to become the most populated, surpassing China?
+			N>Germany
+			N>Nigeria
+			N>United States
+			Y>India
+			N>Bangladesh
+		Q>Country A has a birth rate of 35 per 1,000 and a death rate of 15 per 1,000. What is happening to the population of Country A?
+			N>Rapidly declining
+			N>Stabilizing
+			N>Slowly declining
+			Y>Rapidly growing
+			N>Slowly growing
+		Q>Which stage of the Epidemiological Model BEST fits Stage 3 of the Demographic Transition Model?
+			N>Stage 4
+			N>Stage 2
+			N>Stage 1
+			N>Stage 5
+			Y>Stage 3
+		Q>The population pyramid of Georgia, USA, shown above, uses which scale to show population composition?
+			I>IMG_0910.PNG
+			N>world regional
+			N>regional
+			N>global
+			Y>local
+			N>national
+		Q>When the aging population of a country increases, so does the
+			N>employment rate
+			N>GDP per capita
+			Y>dependency ratio
+			N>purchasing power parity
+			N>Gross Domestic Product
+		Q>Which of the following is typically not a reason for some migrants to seek asylum?
+			N>Lack of freedom of press and expression
+			N>Racial persecution
+			N>Forced military conscription
+			Y>Freedom of religion
+			N>Imprisonment for political dissidents
+		Q>Which of the population pyramids shown here represent a country with rapid population decline?
+			I>IMG_0911.PNG
+			Y>D
+			N>B
+			N>C
+			N>A
+			N>E
+		Q>Which physical feature on the map hinders population density in Egypt?
+			I>IMG_0912.PNG
+			Y>desert
+			N>plateaus
+			N>bodies of water
+			N>mountains
+			N>tundra
+		Q>Japan's dependency ratio is highest in which cohort?
+			I>IMG_0916.PNG
+			N>young
+			N>working
+			N>young and working are almost equal
+			N>young and elderly are almost equal
+			Y>elderly
+		Q>In areas of lower population density, government services would be more
+			N>expensive
+			N>clustered
+			N>evenly distributed
+			Y>dispersed
+			N>cost effective
+		Q>Which of the following would be considered an example of a migration push factor?
+			N>Decrease in taxes
+			Y>A natural disaster
+			N>An edge city
+			N>Chain migration
+			N>A new factory
+		Q>In the map shown here, people are migrating for all of the following reasons EXCEPT
+			I>IMG_0913.PNG
+			N>To escape conflict
+			N>Economic opportunity
+			Y>Religious freedom
+			N>Female educational opportunities
+			N>Higher standards of living
+		Q>Which of the following accurately describes each of the lines on the graph?
+			I>IMG_0911.PNG
+			N>Line A is the Crude Death Rate; Line B is the Crude Birth Rate; Line C is the Natural Increase Rate
+			Y>Line A is the Population Increase; Line B is the Crude Death Rate; Line C is the Crude Birth Rate
+			N>Line A is the Crude Death Rate; Line B is the Natural Increase Rate; Line C is the Crude Birth Rate
+			N>Line A is the Crude Death Rate; Line B is the Crude Birth Rate; Line C is the Population Increase
+			N>Line A is the Crude Death Rate; Line B is the Natural Increase Rate; Line C is the Crude Death Rate
+		Q>Of the following, which region contains the smallest percentage of the world's population?
+			N>There are similar population percentages in all four noted regions
+			Y>The Southern and Western Hemispheres
+			N>The Northern and Eastern Hemispheres
+			N>The Northern and Western Hemispheres
+			N>The Southern and Eastern Hemispheres
+		Q>Only a fraction of the Earth's surface is actually livable and farmable land. This land is called
+			N>Available
+			N>Alluvial
+			N>Augmented
+			N>Anodized
+			Y>Arable
+		Q>What is NOT a good explanation for the immigration pattern in this figure?
+			I>IMG_0913.PNG
+			N>Mexico's relative location next to large US Markets
+			N>The abundance of unskilled labor opportunities found in maquiladoras
+			N>The effect of globalization and the new international division of labor
+			N>The effect of deindustrialization and the creative destruction of jobs
+			Y>A new boom in the US economy which is pulling Latin American immigrants to the USIMP
+		Q>Which of the following population pyramids shown here represent a country with rapid population growth?
+			I>IMG_0911.PNG
+			Y>A
+			N>B
+			N>C
+			N>D
+			N>E
+		Q>This image illustrates the population density of Egypt. The population of Egypt is clustered around which physical feature?
+			I>IMG_0912.PNG
+			N>Mediterranean Sea
+			Y>Nile River
+			N>Red Sea
+			N>Gulf of Suez
+			N>Suez Canal
+		Q>Which of the following is not an example of an intervening obstacle to the flow of goods?
+			N>Ethnic conflict
+			N>Desert
+			Y>Interstate highways
+			N>Moutains
+			N>Political boundaries
+		Q>Comparing migration to the United States in 1910 and 2010, where did the majority of migrants come from then and now?
+			N>England; Japan
+			Y>Germany; Mexico
+			N>Italy; Canada
+			N>Sweden; India
+			N>Germany; China
+		Q>According to Thomas Malthus, what keeps population under control?
+			N>Natural infertility
+			N>Government policy
+			N>Migration
+			N>Birth control
+			Y>Natural checks
+		Q>The distribution of physicians in Kuwait is determined by
+			N>landforms
+			Y>population distribution
+			N>GDP per capita
+			N>levels of education
+			N>government support
+		Q>Which of the population pyramids shown here represent a country with slow population growth?
+			I>IMG_0911.PNG
+			N>E
+			Y>C
+			N>B
+			N>D
+			N>A
+		Q>Gender discrimination occurs indirectly in the developed world when issues surrounding the house and family fall mainly on women. Oftentimes, men will travel farther for work than women, thus having more options to make more money. According to geographers, this ability means men havae a more significant
+			N>gendered boundary
+			N>activity break point
+			N>gendered space
+			Y>activity space
+			N>intervening opportunity
+	P>3
+		Q>
+			N>
+			N>
+			N>
+			N>
+			N>
 		Q>
 			N>
 			N>
