@@ -604,7 +604,7 @@ U>2
 			N>Natural Increase
 			N>J Curve
 			N>Population Growth Rate
-		Q>The set of places individuals encounter as a result of their routine activities in everyday life.
+		Q>Daily patterns of movement in which men still have larger footprints than women.
 			N>Distance Decay
 			Y>Activity Spaces
 			N>Mass Migration
@@ -744,7 +744,7 @@ U>2
 			Y>International Migration
 		Q>Which one of the following is the BEST example of the geographic term density?
 			N>New land was created from the East River by New Yorkers.
-			Y>The number of McDonalds restaurants in Manhattan, New York City has increased over time.
+			Y>The number of McDonald's restaurants in Manhattan, New York City has increased over time.
 			N>The English language spread from Great Britain due to colonization.
 			N>AIDS spread rapidly in some areas of Sub Saharan Africa.
 			N>Islam spread from Southwest Asia and eventually to Spain.
@@ -864,7 +864,7 @@ U>2
 			N>Stage 4
 			N>Stage 5
 		Q>According to the chart, will Country X or Country Z experience the fastest natural increase rate?
-			I>IMG_0909.PNG
+			I>CountriesXYZ.PNG
 			N>Country Z will, because its crude birth rate is higher.
 			N>Neither of them will, because Country X has a natural increase rate below 2.
 			N>Country Z will, because its crude death rate is lower.
@@ -934,7 +934,7 @@ U>2
 			N>mountains
 			N>tundra
 		Q>Japan's dependency ratio is highest in which cohort?
-			I>IMG_0916.PNG
+			I>JapanPopPyramid.PNG
 			N>young
 			N>working
 			N>young and working are almost equal
@@ -960,7 +960,7 @@ U>2
 			N>Female educational opportunities
 			N>Higher standards of living
 		Q>Which of the following accurately describes each of the lines on the graph?
-			I>IMG_0911.PNG
+			I>DTM.PNG
 			N>Line A is the Crude Death Rate; Line B is the Crude Birth Rate; Line C is the Natural Increase Rate
 			Y>Line A is the Population Increase; Line B is the Crude Death Rate; Line C is the Crude Birth Rate
 			N>Line A is the Crude Death Rate; Line B is the Natural Increase Rate; Line C is the Crude Birth Rate
@@ -1037,18 +1037,286 @@ U>2
 			Y>activity space
 			N>intervening opportunity
 	P>3
-		Q>
-			N>
-			N>
-			N>
-			N>
-			N>
-		Q>
-			N>
-			N>
-			N>
-			N>
-			N>
+		Q>Anna is driving home from her home in Boston to her new job in California. Anna stops in St. Louis and finds a job with better benefits and higher pay than the job in California. Anna stays in St. Louis. This is an example of which of the following?
+			N>Gravity model
+			Y>Intervening opportunity
+			N>Distance decay
+			N>Friction of distance
+			N>Space-time compression
+			E>Intervening opportunity is when a migrant finds work along the way and never reaches the intended destination.
+		Q>An economic consequence resulting from population policies that reduce fertility rates is
+			N>an increase in the unemployment rate among adults
+			N>an increase in urbanization due to growth in manufacturing
+			Y>rapid aging of the overall population
+			N>a high proportion of working age adults
+			N>an increase in migration to compenssate for reduced population growth
+			E>Rapidly lowered fertility means a small cohort of young people who then, in turn become workers. Low numbers of workers skew the dependency ratio where small numbers of workers are now increasingly supporting a large, aging population.
+		Q>How long did it take for the planet to go from one billion people to seven billion?
+			N>One hundred years
+			N>Four hundred years
+			N>Three hundred years
+			N>Five hundred years
+			Y>Two hundred years
+			E>Many answers explain this: industrialization, understanding of Stage 2 of demographic transition, and others.
+		Q>In what stage of the Demographic Transition Theory model would consumer and public services begin to appear on a larger scale in society?
+			Y>II
+			N>IV
+			N>I
+			N>V
+			N>III
+			E>In stage 2, the death rate begins to fall for multiple reasons, including better health due to the specialization of roles and the providing of services within the framework of these societies.		
+		Q>Based on Japan's population pyramid, which of the following statements is correct?
+			I>JapanPopPyramid.PNG
+			N>More people are immigrating to Japan
+			N>Japan's elderly cohort is decreasing
+			N>People in Japan are having more children
+			Y>People in Japan are having fewer chidlren
+			N>Fewer people are immigrating to Japan
+			E>The base of Japan's population is much smaller than the top, illustrating the few number of babies being born in Japan over the past 20-plus years.
+		Q>Families in MDCs began to have fewer children in Stage IV of the Demographic Transition Model for all the following reasons EXCEPT
+			Y>a shift in religious practices
+			N>they did not have the need for several children to work on family farms
+			N>children's roles shifted from labors to liabilities
+			N>women began to work outside the home
+			N>they had smaller living quarters in urban dwellings
+			E>Stage IV of the DTM indicates fully industrialized, advanced countries. Women have fewer children and may reject religious norms in general.
+		Q>Which of the following would not be considered part of a state's expansive population policy?
+			Y>Encouraging women to continue their education via post-graduate programs
+			N>An extensive advertising campaign which promotes the virtues of having more children
+			N>Providing extended paternity leave
+			N>Limiting access to birth control
+			N>Giving tax breaks to couples with two or more children
+			E>If women are continuing their education via post-graduate work, they would therefore not be as concerned with having more children at that time but rather focusing on their career goals.
+		Q>Less Developed Countries have lower ________ than more developed countries.
+			N>crude birth rates
+			Y>life expectancies
+			N>infant mortality rates
+			N>crude death rates
+			N>total fertility rates
+			E>Life expectancy is low in LDCs; all other choices are typically higher in an LDC.
+		Q>Which of the following has contributed most to positive development in the developing (southern) world?
+			N>The increase of money available from foreign aid
+			Y>The increase of focus on women getting an education
+			N>The increase of active conflict in the realm
+			N>The increase of numbers of children living past their first year of birth
+			N>The increase of democratic governments being elected peacefully
+			E>Literacy, because it is the single most important characteristic for women that has the biggest effect on development, while the others are variable.
+		Q>According to the United Nations High Commission on Refugees, forced migration has political, environmental, economic, and social catalysts, which causes many refugees to seek asylum. Where do most of the world's asylum seekers go according to the UN?
+			N>Sweden
+			N>Turkey
+			Y>Germany
+			N>United States
+			N>France
+			E>Since WWII, Germany has had among the most liberal refugee and asylee policies in Europe and the world.
+		Q>What stage of the Demographic Transition Model would be characterized by more economic opportunities for women, a declining rate of natural increase, and the DTM stage at which most Central and South American countries are categorized.
+			I>DTM.PNG
+			N>Stage IV
+			N>Stage II
+			N>Stage I
+			Y>Stage III
+			N>Stage V
+			E>Most Central and South American countries have reached Stage III in the DTM, which features falling birth rates and more empowerment of women.
+		Q>Use these data to answer the following question. Country Y is most likely to be in which stage of the DTM?
+			I>CountriesXYZ.PNG
+			N>Stage II
+			N>Stage III
+			N>Stage IV
+			N>Stage I
+			Y>Stage V	
+			E>In most cases, when the CDR is higher than the CBR, then the country is considered to be in stage 5.
+		Q>Between 1950 and 2000, Florida's population dramatically increased due to in-migration. Which of these is not a pull factor for this in-migration?
+			N>Chain migration
+			N>Disney World
+			N>The invention of air conditioning
+			N>NASA
+			Y>Expensive land values
+			E>Air-conditioning made living in Florida more comfortable, NASA and Disney created jobs, and chain migration made immigration easier for certain groups. Expensive land does not attract most people.
+		Q>The 2014 Ebola virus epidemic in western Africa can BEST be considered an example of what stage of the Epidemiological Transition?
+			N>Stage 3
+			N>Stage 1
+			Y>Stage 5
+			N>Stage 4
+			N>Stage 2
+			E>Resurgence of epidemic diseases are caused by antibiotic resistant strains and new diseases. Pandemics are now more common due to increased travel.
+		Q>Assume the rate of natural increase of Country X is 2%. Which of the following BEST represents the meaning of this in relation to the population of Country X?
+			N>Most population growth in Country X is due to migration and not natural increase
+			N>The doubling time of Country X is 35 years
+			N>Country X will experience population decline in the next 30 years
+			N>Country X is experiencing natural increase one would see in a developed country
+			N>The trend in family size in Country X is increasing at a slow rate 
+			E>The doubling time is 70 divided by the rate of natural increase. In this instance, a doubling time of 35 years.
+		Q>Ester Boserup's theory asserts all of the following points EXCEPT
+			N>Subsistence farmers will only grow enough food to feed just their families
+			N>Subsistence farmers want to maximize their family time
+			Y>Boserup's theory supports the economic tenets of Malthus
+			N>Boserup's theory does not apply to industrially advanced countries
+			N>Subsistence farmers will adjust their farming output as population grows																
+			E>Boserup's work was a criticism of Malthus' proposition. Boserup indicated farmers lived close to society and knew populations were increasing and, thus, needed to produce more (which is in the interest of the farmer to produce more profit). 
+		Q>Declining death rates in Stage 2 of the Demographic Transition are due primarily to
+			N>Political changes
+			N>Agricultural revolutions
+			Y>Sanitation implementation
+			N>Industrial revolutions
+			N>Cultural changes
+			E>Use of clean water and proper disposal/processing of sewage leads to decreasing mortality rates and, thus, rapid population growth.
+		Q>Which of the following BEST accounts for a country's rapid population growth during Stage II of the Demographic Transition Model?
+			N>A sharp increase in the crude birth rate, while the crude death rate remains the same.
+			N>A decrease in the crude death rate coupled with an decrease in the crude birth rate.
+			Y>A sharp decrease in the crude death rate.
+			N>A decrease in the crude death rate coupled with an increase in the crude birth rate.
+			N>A sharp increase in the crude birth rate.
+			E>Stage II of the DTM is characterized by rapidly falling death rates due to improved sanitation and basic medical practices.
+		Q>Countries with high levels of maternal mortality are
+			N>only found in the semi-periphery
+			N>likely to also have a high HDI
+			Y>also likely to have a high IMR
+			N>in stage IV of the Demographic Transition
+			N>prone to suffer from natural disasters
+			E>High maternal mortality means mothers in that country may be unhealthy, which means their new babies will have high infant mortality rates.
+		Q>Since 1800, the global population has grown from one billion to seven billion. What two primary processes have accelerated this growth?
+			N>Agricultural improvements and international migration
+			Y>Improved agriculture and sanitation and medicine
+			N>Global finance and transportation technologies
+			N>Improved medicine and urbanization
+			N>Urbanization and the spread of democracy
+			E>Basic sanitation methods such as clean water and sanitary sewer installation have drastically lowered CDRs. Reliable agriculture supply has also lowered CDRs.
+		Q>Fertility rates tend to decline as which variable increases?
+			N>Infant mortality rates
+			N>Doubling times
+			Y>Female literacy rates
+			N>Replacement rates
+			N>Religious fundamentalists
+			E>The more educated women are, the fewer children they have.
+		Q>When considering the spatial distribution of the world's population, the fewest people would live in
+			Y>the high latitudes
+			N>the mid latitudes
+			N>the low latitudes
+			N>the northern hemisphere
+			N>the tropics
+			E>The mid latitudes include the highly populated countries of China, India, and USA. The high latitudes include the Arctic and Antarctic circles.
+	P>4
+		Q>More developed countries moved roughly from Stage II to Stage III of the Demographic Transition about 250 years ago. This is most likely due to
+			N>development of permanent settlements
+			N>decreasing of crude death rates
+			Y>invention of industrial technology
+			N>migration of rural to urban areas
+			N>cultivation of plants and crops
+			E>Historically, developed countries, such as the UK, USA, and Germany, moved from stage II to stage III of the DTM 250 years ago due to transitioning through an industrial revolution, which in turn will bring the CBR down.
+		Q>The largest internal migration in history is (based on raw numbers and not percentage)
+			N>the migration of Mexico workers to Maquiladora factory towns from 1980 to the present
+			Y>the rural to urban migration in China from 1970 to present
+			N>the migration of Muslims from India to Pakistan after World War II
+			N>the migration of Native Americans to reservations in the late 1800s
+			N>the migration of Europeans to North America from 1600 to 1900
+			E>China's economic growth has created huge manufacturing increases, which has attracted larger numbers of rural immigrants to seek jobs in the urban centers.
+		Q>According to the data, the natural increase rate percentages for both Niger and China are
+			I>NigerChinaRates.PNG
+			N>3.6% and 53.0% respectively
+			Y>3.66% and 0.53% respectively
+			N>36.6% and 5.30% respectively
+			N>363.66% and 5.30% respectively
+			N>0.366% and 0.53% respectively
+			E>Niger's RNI would be over 3% with its high birth rates. China's population policies created a falling CBR, which is around 0.50%
+		Q>The increase in population seen in Stage II of the Demographic Transition Model is a result of which of the following processes?
+			Y>Decrease in the crude death rate
+			N>Cultural lag
+			N>Immigration
+			N>Decreased in the crude birth rate
+			N>Emigration
+			E>The primary characteristic of Stage II is the drastic lowering of the mortality rate.
+		Q>The interregional migration trend around the world is rural to urban. Of the following countries, which has the highest percentage of rural population.
+			Y>China
+			N>Australia
+			N>Canada
+			N>Germany
+			N>United States
+			E>China is 44% urban, based on 2015 data from Population Reference Bureau. The other countries are all at 20% or less rural.
+		Q>Chain migration could be the cause of which of the following?
+			N>Changes in population policies in the source country
+			N>A decrease in the rural to urban migration in the source country
+			N>Hierarchical diffusion in the destination country
+			Y>An increase in remittances to the source country
+			N>Increased labor costs in the destination country
+			E>As more people emigrate to the location of their relatives and friends in the destination country, money will flow from the destination country back to the country of origin.
+		Q>These population pyramids, from left to right, show Mexico's population in 1980, 1995, and 2010. Which of the following statements about Mexico's population is most accurate?
+			I>MexicoPopPyramids.PNG
+			N>Between 1980 and 2010, Mexico transitioned from Stage IV to Stage V of the Demographic Transition Model.
+			Y>Between 1980 and 2010, Mexico transitioned from Stage II to Stage III of the Demographic Transition Model.
+			N>Between 1980 and 2010, Mexico transitioned from Stage I to Stage II of the Demographic Transition Model.
+			N>During this time, Mexico did not make any transition between stages of the Demographic Transition Model.
+			N>Between 1980 and 2010, Mexico transitioned from Stage III to Stage IV of the Demographic Transition Model.
+			E>One can observe the CBR beginning to drop over that time frame as reflected by the associated cohorts of the age sex pyramid.
+		Q>Both coffinmakers and cradlemakers are very busy in a country. This would indicate which stage of the Demographic Transition Model?
+			N>Early stage IV
+			N>Late stage II
+			Y>Early stage II
+			N>Early stage III
+			N>Late stage III
+			E>Stage I of the DTM features high fertility and mortality. The same is true in early stage II. Therefore, both makers of cradles and coffins would be very busy.
+		Q>Which of the following statements regarding migration and the Demographic Transition Model is most accurate?
+			N>Countries in Stages IV and V of the Demographic Transition Model often experience significant emigration to countries in Stages II and III.
+			N>Countries in Stage I of the Demographic Transition Model often experience significant immigration from countries in Stages II and III.
+			Y>Countries in Stages II and III of the Demographic Transition Model often experience significant emigration to countries in Stages IV and V.
+			N>Countries in Stages II and III of the Demographic Transition Model often experience significant immigration from countries in Stages IV and V.
+			N>Countries in Stage I of the Demographic Transition Model often experience significant emigration to countries in Stages IV and V.
+			E>Stage II and III countries are less developed, have more economic problems, and may experience more political conflict. Thus, more people will likely emigrate to more developed countries in Stages IV and V.
+		Q>In addition to reducing total fertility rates, restrictive population policies have what other demographic consequence?
+			Y>Increasing percentage of elderly
+			N>Increasing standard of living
+			N>Increasing percentage of children
+			N>Increasing child mortality
+			N>Increasing life expectancy
+			E>WIth fewer children being born, eventually a country will have a greater gap between the large numbers of elderly and few younger people.
+		Q>Which of these variables plays the most significant role in bringing down the TFR of women in the developing world?
+			Y>Literacy rate
+			N>Caloric intake
+			N>Narrowing of the dependency ratio
+			N>GDP per capita
+			N>Increase in agricultural productivity
+			E>Education level in women is the primary factor in determining total fertility rates.
+		Q>As an Asian Tiger, Singapore has achieved massive economic growth in the last fifty years. This has led to a high level of development and an increasing standard of living. In spite of a current TFR less than 1.6, Singapore's population has risen steadily in recent years. This growth is due to
+			N>Singaporeans having larger families for cultural reasons
+			N>Many young Singaporeans choosing to either remain single or to get married have no children
+			N>Women's empowerment
+			Y>Singapore enticing immigrants due to its economic success
+			N>The failture of the Singapore government's pronatalist policies that offer a mixture of both social and economic incentives to Singaporeans to have larger families
+			E>As an Asian Tiger, Singapore's economy is very vibrant and, consequently, acts as a pull factor for attracting immigrants.
+		Q>Which of the following BEST fits Ravenstein's Laws of Migration?
+			Y>An unmarried man in his twenties with no children relocates from the Atlanta suburbs to downtown Atlanta as he would rather take the train to work than drive every day
+			N>A family with two children in which the parents, who are in their twenties, relocate from rural Georgia to Los Angeles as the husband just got a new job in the film industry
+			N>A family with three children in which the parents, who are in their twenties, relocate from St. Louis, MO to Chicago, wanting to be closer to the husband's elderly parents
+			N>An unmarried women in her twenties with no children travels from Hartford, CT to New York City by train everyday to attend classes at New York University
+			N>A family with one child in which the parents, who are in their twenties, relocate from rural Arkansas to rural Texas to manage a small family farm
+			E>Ravenstein implies, in his laws of migration, that young single men tend to migrate more than any other scenarios that are implied in the other answer choices. 
+		Q>According to the U.S. Census Bureau, the population of Illinois increased during 2000 to 2010 with a larger percentage of the increase coming from migration from Mexico. Despite this, Illinois lost one seat in the House of Representatives. Which of the following BEST explains this loss? 
+			N>Mexican immigrants are never counted in the census because they are not U.S. citizens
+			N>Illinois growth only happened in the Chicago area and not throughout the state
+			Y>Other states' populations grew more than Illinois, causing lower proportional representation
+			N>NAFTA mentions that Mexican migration to the U.S. will count against a state
+			N>The Illinois map was gerrymandered to exclude a district for Mexican-Americans
+			E>One of the most significant repercussions based on data collected by the U.S. Census is the gain/loss of seats in the House of Representatives due to proportional representation based on population.
+		Q>The concept of a country's population continuing to grow for a generation or two after significant drops in birth rates is called?
+			Y>Demographic momentum
+			N>Demographic concentration
+			N>Demographic transition
+			N>Demographic decay
+			N>Demographic density
+			E>Even if the country's TFR is lowering, such as currently in India, it takes a generation or two for all the women in a country who are in their childbearing years to move out of this scenario; therefore, the momentum of them having children to reduce is slow.
+		Q>Which of the following statements is most accurate?
+			N>Life expectancy is negatively correlated with wealth
+			N>Dependency ratio is high when there is a high number of working age people in the country
+			Y>Population growth rate is negatively correlated with women's rights
+			N>Infant mortality rate is positively correlated with wealth
+			N>Total fertility rate is positively correlated with female literacy rates
+			E>As women gain more rights in a society, they tend to have fewer children. Therefore, the correct answer reflects an acurate negative correlation.
+		Q>According to the data, the approximate doubling times for Niger and China are
+			I>NigerChinaRates.PNG
+			N>19 years and 66 years respectively
+			N>38 years and 132 years respectively
+			N>9.5 years and 96 years respectively
+			Y>19 years and 132 years respectively
+			N>9.5 years and 66 years respectively
+			E>Doubling time is calculated using the formula 70 divided by the rate of natural increase. This is known as the rule of 70.
 U>3
 	P>1
 		Q>
@@ -1057,6 +1325,189 @@ U>3
 			N>
 			N>
 			N>
+			E>
+		Q>
+			N>
+			N>
+			N>
+			N>
+			N>
+			E>
+		Q>
+			N>
+			N>
+			N>
+			N>
+			N>
+			E>																
+		Q>
+			N>
+			N>
+			N>
+			N>
+			N>
+			E>
+		Q>
+			N>
+			N>
+			N>
+			N>
+			N>
+			E>
+		Q>
+			N>
+			N>
+			N>
+			N>
+			N>
+			E>
+		Q>
+			N>
+			N>
+			N>
+			N>
+			N>
+			E>	
+		Q>
+			N>
+			N>
+			N>
+			N>
+			N>
+			E>
+		Q>
+			N>
+			N>
+			N>
+			N>
+			N>
+			E>
+		Q>
+			N>
+			N>
+			N>
+			N>
+			N>
+			E>
+		Q>
+			N>
+			N>
+			N>
+			N>
+			N>
+			E>	
+		Q>
+			N>
+			N>
+			N>
+			N>
+			N>
+			E>
+		Q>
+			N>
+			N>
+			N>
+			N>
+			N>
+			E>
+		Q>
+			N>
+			N>
+			N>
+			N>
+			N>
+			E>
+		Q>
+			N>
+			N>
+			N>
+			N>
+			N>
+			E>	
+		Q>
+			N>
+			N>
+			N>
+			N>
+			N>
+			E>
+		Q>
+			N>
+			N>
+			N>
+			N>
+			N>
+			E>
+		Q>
+			N>
+			N>
+			N>
+			N>
+			N>
+			E>
+		Q>
+			N>
+			N>
+			N>
+			N>
+			N>
+			E>	
+		Q>
+			N>
+			N>
+			N>
+			N>
+			N>
+			E>
+		Q>
+			N>
+			N>
+			N>
+			N>
+			N>
+			E>
+		Q>
+			N>
+			N>
+			N>
+			N>
+			N>
+			E>
+		Q>
+			N>
+			N>
+			N>
+			N>
+			N>
+			E>	
+		Q>
+			N>
+			N>
+			N>
+			N>
+			N>
+			E>
+		Q>
+			N>
+			N>
+			N>
+			N>
+			N>
+			E>
+		Q>
+			N>
+			N>
+			N>
+			N>
+			N>
+			E>
+		Q>
+			N>
+			N>
+			N>
+			N>
+			N>
+			E>	
 U>4
 	P>1
 		Q>
@@ -1065,6 +1516,7 @@ U>4
 			N>
 			N>
 			N>
+			E>		
 U>5
 	P>1
 		Q>
@@ -1073,6 +1525,7 @@ U>5
 			N>
 			N>
 			N>
+			E>		
 U>6
 	P>1
 		Q>
@@ -1081,6 +1534,7 @@ U>6
 			N>
 			N>
 			N>
+			E>		
 U>7
 	P>1
 		Q>
@@ -1089,3 +1543,4 @@ U>7
 			N>
 			N>
 			N>
+			E>		
