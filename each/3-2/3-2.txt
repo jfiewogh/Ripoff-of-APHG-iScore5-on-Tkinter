@@ -1,0 +1,202 @@
+Q>Which of the following represents the most widely diffused language in the world?
+	N>Spansish
+	N>Mandarin Chinese
+	N>German
+	N>French
+	Y>English
+	E>Due to British imperialism and American power since World War II, English is spoken around the world.
+Q>Which concept is exemplified by this picture, taken in Chinatown, NYC, New York?
+	I>IMG_0920.PNG
+	N>Urban hierarchy
+	N>Transhumance
+	N>Environmental determinism
+	N>Sequent occupance
+	Y>Cultural diffusion
+	E>Cultural diffusion is shown through the spread of Chinese language cultural traits.
+Q>Bodhran music is classic in Irish folk songs. The Bodhran is also played throughout Newfoundland in areas settled by Irish immigrants. What BEST describes this phenomenon?
+	N>Stimulus diffusion
+	Y>Relocation diffusion
+	N>Verncular diffusion
+	N>Expansion diffusion
+	N>Hierarchical diffusion
+	E>Cultural traits that are spread by immigrants is relocation diffusion.
+Q>National Football League players were pink accessories during the month of October to raise awareness for Breast Cancer Awareness Month. In the following years, middle and high school players have begun wearing pink accessories also. This is an example of
+	N>contagious diffusion
+	N>relocation diffusion
+	N>expansion diffusion
+	N>stimulus diffusion
+	Y>hierarchical diffusion
+	E>Hierarchical diffusion predicts a trait will pass from places or entities of higher power or influence down to those with less power or influence.
+Q>The picture shown here was taken in which US state?
+	I>IMG_0921.PNG
+	N>California
+	N>Tennessee
+	Y>Louisiana
+	N>Utah
+	N>Arizona
+	E>Louisiana is the only U.S. state with administrative regions named parishes instead of counties.
+Q>If a leader adotps a certain way of doing something, perhaps a faith or a hobby, and the people following the leader begin to do the same thing, what type of diffusion would you be seeing?
+	N>Expansion
+	Y>Hierarchical
+	N>Contagious
+	N>Relocation
+	N>Stimulus
+	E>Hierarchical diffusion follows a pattern from the top downward.
+Q>Geographic place names are of cultural and social importance because the names
+	N>are used to promote tourism
+	N>are descriptive of the natural landscape
+	N>establish ownership of territory
+	N>reflect the importance of globalization on a place
+	Y>make up part of linguistic and local identity
+	E>Toponyms, or place names, frequently describe local cultures, histories, and identities.
+Q>What US state and Canadian province are similar due to religion, language, and code of laws?
+	N>Washington and British Columbia
+	N>New York and Alberta
+	N>Georgia and Newfoundland
+	Y>Louisiana and Quebec
+	N>Colorado and Manitoba
+	E>The Catholic French settled in both of these regions.
+Q>Russian, Czech, and Polish come from which language branch?
+	N>Romance
+	N>West Germanic
+	N>Sino Tibetan
+	Y>Balto Slavic
+	N>Indo Iranian
+	E>They are all Balto Slavic languages.
+Q>Which language is recognized as an official language of more countries than any other?
+	N>Spanish
+	N>Arabic
+	N>French
+	N>Mandarin Chinese
+	Y>English
+	E>This is mostly due to the fact that the British had many colonies.
+Q>The idea that one can exit an interstate highway and continually see a similar built environment is BEST described geographically as
+	N>possibilism
+	N>sequent occupance
+	Y>placelessness
+	N>space-time compression
+	N>environmental determinism
+	E>Landscapes that look the same no matter where one is such as gas stations or fast food restaurants off of an interstate highway exit represent the concept of placelessness.
+Q>The presence of Starbucks, KFC, and McDonald's in Seoul, South Korea is an example of
+	N>Interdependence
+	N>SIte
+	Y>Globalization
+	N>Density
+	N>Situation
+	E>These chains are ubiquitous on the global landscape.
+Q>The spread of Ebola in western Africa is an example of
+	Y>Contagious diffusion
+	N>Stimulus diffusion
+	N>Environmental Determinism
+	N>Hierarchical diffusion
+	N>Political ecology
+	E>All people within contact of Ebola are equally susceptible.
+Q>The spread of global culture often associated with globalization can BEST be defined as which type of diffusion?
+	N>Contagious
+	Y>Hierarchical
+	N>Relocation
+	N>Migrant
+	N>Stimulus
+	E>Many global culture trends start in the United States, leapfrogging other places and spreading to other MDCs first.
+Q>Towns and cities with large Muslim populations will have large, and often ornate
+	Y>Mosques
+	N>Gurdwaras
+	N>Mandalas
+	N>Suptas
+	N>Cathedrals
+	E>The religious buildings for Muslims are mosques.
+Q>The place of worship here is asssociated with which of the following religions?
+	I>IMG_0922.PNG
+	N>Eastern Orthodox
+	Y>Islam
+	N>Judaism
+	N>Lutheran
+	N>Hinduism
+	E>Mosques are identified as having minarets and are the places of worship in the Islamic faith.
+Q>Country flags incorporate important political, religious, and cultural symbols in their designs. All of the countries represented by flags shown here—Turkey, Iceland, Israel, Lebanon, and South Korea—incorporate religious symbolism on their flags EXCEPT
+	I>IMG_0923.PNG
+	N>South Korea
+	N>Israel
+	Y>Lebanon
+	N>Iceland
+	N>Algeria
+	E>Lebanon's flag has a cedar tree indigeneous to the mountains of Lebanon.
+Q>India is a linguistically diverse state. The majority of the languages spoken in the southern tip of the state come from what language family?
+	N>Austro-Asiatic
+	Y>Indo-European
+	N>Sino-Tibetan
+	Y>Dravidian
+	N>Hindi
+	E>Dravidian languages dominate southern India, while Indo-European languages dominate in the north of India.
+Q>All of the following modern lingua franca languages spread as a reuslt of the era of colonialism EXCEPT for
+	N>French
+	N>Portuguese
+	Y>Arabic
+	N>Spanish
+	N>English
+	E>Arabic diffused contagiously as Islam spread well before the age of colonialism.
+Q>English and Dutch come from which language branch?
+	N>Sino Tibetan
+	N>Romance
+	N>Balto Slavic
+	N>Indo Iranian
+	Y>Germanic
+	E>Both of these languages are from the Germanic family.
+Q>According to the ancient social hierarchy in Indian society, your place in life is set at birth. Even though this system has been outlawed, it still affects politics, economics, and marriage. What is this system called?
+	N>Khap Panchayats system
+	Y>Caste system
+	N>Dalits
+	N>Elitism
+	N>Mysticism
+	E>This concept was tied to the idea of reincarnation and, therefore, rooted in the belief system of Hindus.
+Q>A student wears a new outfit to school. Within weeks, the entire school is wearing the same type of output. This is an example of
+	N>Expansion diffusion
+	Y>Contagious diffusion
+	N>Stimulus diffusion
+	N>Relocation diffusion
+	N>Hierarchical diffusion
+	E>It spreads equally through the entire school.
+Q>Both Arabic and Hebrew evolved from the same language branch known as
+	N>Balto Slavic
+	N>West Germanic
+	Y>Semitic
+	N>Indo Iranian
+	N>Sino Tibetan
+	E>Arabic and Hebrew are both Semitic.
+Q>In the image shown here, the religion indicated by yellow is
+	I>IMG_0924.PNG
+	Y>Hinduism
+	N>Islam
+	N>Buddhism
+	N>Christianity
+	N>Greek Orthodox
+	E>The religion that dominates in India is Hinduism.
+Q>Walloons residing in the south and Flemish living in the north are two distinct ethno-linguistic groups in
+	Y>Belgium
+	N>Germany
+	N>Luxembourg
+	N>Netherlands
+	N>France
+	E>Walloons, who live in the south, are more ethnically aligned with the French, while the Flemish in the north are more ethnically aligned with the Dutch.
+Q>From the Tower Hill Station in London, you can see a section of the Roman Wall, the fortress of the Tower of London, and modern glass and steel skyscrapers. This would be an example of
+	N>Expansion diffusion
+	N>Absolute location
+	Y>Sequent occupance
+	N>Time-distance decay
+	N>Physical landscape
+	E>Sequent occupance shows imprints on the landscape of those who used to be in a place and are no longer there.
+Q>The use of a place name, such as the one shown here, to describe surrounding areas or history is referred to as
+	I>IMG_0925.PNG
+	N>regionalization
+	N>remote sensing
+	N>sensing of place
+	Y>toponymy
+	N>sequent occupance
+	E>Toponymy is the study of place names.
+Q>The early diffusion of hip-hip music among largely African-American, urban communities before widespread adoption by mostly Caucasian, suburban communities is an illustration of
+	N>Relocation diffusion
+	Y>Hierarchical diffusion
+	N>Migrant diffusion
+	N>Stimulus diffusion
+	N>Maladaptive diffusion
+	E>The spread of hip-hop was largely urban, or from large to large places first.
