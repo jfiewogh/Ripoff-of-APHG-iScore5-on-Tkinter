@@ -1,0 +1,546 @@
+Q>The modification of the social patterns, traits, or structures of one group or society by contact with those of another.
+    Y>Acculturation
+    N>Cultural Appropriation
+    N>Cultural Relativism
+    N>Cultural Landscape
+    N>Neolocalism
+    E>Acculturation is the modification of social patterns, traits, or structures of a group by contact with another.
+Q>The belief the souls or spirits exist not only in humans but also in all other animals, plants, rocks, geographic features such as mountains or rivers, and other parts of the natural environment.
+    N>Polytheistic Religion
+    N>Universalizing Religion
+    N>Syncretism
+    N>Monotheistic Religion
+    Y>Animistic Religion
+    E>Aministic religions believe that souls or spirits exist in humans as well as all other animals, plants, rocks, and geographic features.
+Q>Traditionally practiced by a small, homogeneous, rural group living in relative isolation from other groups.
+    Y>Local Culture
+    N>Cultural Landscape
+    N>Globalization
+    N>Step Migration
+    N>Global Culture
+    E>Local culture is traditionally practiced by a small, homogeneous, isolated group of people.													
+Q>The process by which other cultures adopt customs and knowledge and use them for their own benefit; often commodifying certain traits.
+    N>Stimulus Diffusion
+    Y>Cultural Appropriation
+    N>Invasion and Succession
+    N>Assimilation
+    N>Syncretism
+    E>Cultural appropriation occurs when cultures adopt customs and knowledge and use them for their own benefit.
+Q>Distance-controlled spreading of an idea, innovation, or some other item through a local population by contact from person to person.
+    N>Migrant Diffusion
+    N>Stimulus Diffusion
+    Y>Contagious Diffusion
+    N>Relocation Diffusion
+    N>Hierarchical Diffusion
+    E>Contagious diffusion spreads from person to person via contact.
+Q>Attitudes or behaviors which limit women's opportunities and are based on traditional stereotypes of sexual roles.
+    N>Activity Space
+    Y>Sexism
+    N>Identity Model
+    N>Queer Theory
+    N>Racism
+    E>Sexism is attitudes or behavior which limit women's opportunities based on stereotypes.
+Q>A dead language that was once used but has no native speakers who use it daily as a first language.
+    N>Arabic
+    N>Deep Reconstruction
+    N>Euskara
+    Y>Extinct Language
+    N>Isolated Language
+    E>An extinct language has no native speakers using it daily as a first language.
+Q>Religion that is identified with a particular ethnic or cultural group in a concentrated geographic area and does not seek new converts.
+    N>Monotheistic Religion
+    N>Universalizing Religion
+    Y>Ethnic Religion
+    N>Animistic Religion
+    N>Polytheistic Religion
+    E>Ethnic religions identify with a particular ethnic or cultural group in a concentrated geographic area.
+Q>Violent religious movement by some strict fundamentalists who seek to restore principles by any means necessary.
+    Y>Religious Extremism
+    N>Sacred Sites
+    N>Ethnic Religion
+    N>Apartheid
+    N>Secularism
+    E>Religious extremism is a violent religious movement by strict fundamentalists seeking to restore basic principles by any means necessary.
+Q>The loss of uniqueness of a place due to globalization in the cultural landscape so that all places look the same.
+    N>Local Culture
+    N>Global Culture
+    N>Cultural Landscape
+    Y>Placelessness
+    N>Sense of Place
+    E>Placelessness is the loss of uniqueness of a place due to globalization.
+Q>The idea that each culture or successive societies in an area levae their material culture on a place, each contributing to the cumulative cultural landscape.
+    N>Jim Crow
+    N>De Facto Segregation
+    N>White Flight
+    Y>Sequent Occupance
+    N>De Jure Segregation
+    E>Sequent occupance occurs as successive cultures move through an area and leave their material culture on a place.
+Q>The spread of an underlying principle, even though a specific characteristic is rejected.
+    N>Latitude
+    N>Contagious Diffusion
+    N>Environmental Determinism
+    Y>Stimulus Diffusion
+    N>Hierarchical Diffusion
+    E>Stimulus diffusion is when an underlying principle spreads, but specific characteristics are rejected.
+Q>The concept that a person's beliefs, values, and practices should be understood based on that person's own culture, rather than be judged against the culture of others.
+    N>culture
+    N>segregation
+    N>ethnocentrism
+    Y>cultural relativism
+    N>diffusion
+    E>Cultural relativism is the idea that a person's beliefs, values, and practices should be understood based on their own culture.
+Q>A traditional practice that members of a particular society follow routinely and is widely-accepted. Also called a custom.
+    N>Cultural Complex
+    N>Cultural Appropriation
+    N>Cultural Region
+    N>Globalization
+    Y>Cultural Trait
+    E>Cultural traits are widely accepted and practiced routinely by a particular society.
+Q>The form of a langauge with specific grammar rules and word choice that is used for official government business, education, and mass communications.
+    N>Dialect
+    N>Official Language
+    N>Ebonics
+    Y>Standard Language
+    N>Lingua Franca
+    E>A standard language is language with specific grammar rules and word choice used for official government communications.
+Q>A language adopted for use by the government for the conduct of business and publication of documents.
+    N>Dialect
+    Y>Official Language
+    N>Ebonics
+    N>Standard Language
+    N>Lingua Franca
+    E>An official language is a language adopted for use by the government for the conduct of business and publication of documents.
+Q>Form of diffusion in which an idea or innovation spreads by passing first among the most connected places or peoples.
+    Y>Hierarchical Diffusion
+    N>Contagious Diffusion
+    N>Spatial Distribution
+    N>Migrant Diffusion
+    N>Stimulus Diffusion
+    E>Hierarchical diffusion spreads among the most connected places or people first.
+Q>Usually occurs when two languages compete for status in a region (e.g., Belgium, Canada, and Cyprus).
+    Y>Language Conflict
+    N>Dialects
+    N>Language Groups
+    N>Isogloss
+    N>Monolingual State
+    E>Language conflicts occur when two languages compete for status in a region.
+Q>A religion that attempts to appeal to all people, not just those living in a particular location.
+    N>Monotheistic Religion
+    N>Ethnic Religion
+    N>Animistic Religion
+    N>Polytheistic Religion
+    Y>Universalizing Religion
+    E>Universalizing religions attempt to appeal to all people regardless of education.
+Q>A policy in which, over time, a nation encourages a subject people to adopt its institutions and customs.
+    Y>Assimilation
+    N>Globalization
+    N>Neolocalism
+    N>Cultural Appropriation
+    N>Cultural Relativism
+    E>Assimilation is when, over time, a nation encourages people to adopt its institutions and customs.
+Q>A subcategory of religions within a branch.
+    N>Convergence
+    Y>Religious Denominations
+    N>Religious Branches
+    N>Interfaith Boundaries
+    N>Syncretism
+    E>A religious denomination is a subcategory of religions within a branch.
+Q>A line on a dialect map marking the boundary between different accents, word choices, or other linguistic features.
+    N>Pidgin Langauge
+    N>Accentification
+    N>Mutual Intelligibility
+    Y>Isogloss
+    N>Language Convergence
+    E>An isogloss is a linguistic boundary between different linguistic features.
+Q>Cases when the bride is brutually beaten or killed for her father's failure to fulfill the marriage agreement or payment; commonly associated with Indian culture.
+    N>Glass Ceiling
+    Y>Dowry Deaths
+    N>Gendered
+    N>Crude Death Rate
+    N>Maternal Mortality Rate
+    E>Dowry deaths are cases when a bride is beaten or killed because her father fails to fulfill the marriage payment contract.
+Q>Belief system with multiple gods or supreme beings.
+    Y>Polytheistic Religion
+    N>Monotheistic Religion
+    N>Universalizing Religion
+    N>Animistic Religion
+    N>Ethnic Religion
+    E>Polytheistic religions believe in multiple gods or supreme beings.
+Q>A collection of languages within a branch that share a common origin in the relatively recent past and display relatively few differences in grammar and vocabulary.
+    Y>Language Group
+    N>Language Branch
+    N>Language
+    N>Language Family
+    N>Dialect
+    E>Language groups are collections of languages within a branch that share a recent common ancestor.
+Q>The ideas, beliefs, and values that define a group of people, or a culture.
+    N>Popular Culture
+    Y>Nonmaterial Culture
+    N>Material Culture
+    N>Local Culture
+    N>Indigenous Culture
+    E>Nonmaterial culture is the ideas, beliefs, and values of a group of people.
+Q>A collection of languages related through a common ancestor that existed several thousand years ago. Sometimes called Language Subfamily.
+    N>Language Superfamily
+    Y>Language Branch
+    N>Language Group
+    N>Nostratic
+    N>Dialect
+    E>Language branches are collections of languages related through a common ancestor.
+Q>Judging another culture based on preconceptions that are found in the values and standards of one's own culture.
+    N>possibilism
+    N>acculturation
+    N>cultural relativism
+    N>diffusion
+    Y>ethnocentrism
+    E>Ethnocentrism is judging another culture based on preconceptions of one's own culture.	
+Q>Occurs when a lack of spatial interaction among speakers of a language breaks the language into dialects and then eventually new languages
+    N>Language Branch
+    N>Language
+    N>Language Convergence
+    N>Backwards Reconstruction
+    Y>Language Divergence
+    E>Language divergence occurs when a language breaks into dialects and eventually new languages.
+Q>Where people with a shared sexual identity cluster and how they create a space for themselves.
+    Y>Gendered Space
+    N>Sexuality and Space
+    N>Racism
+    N>Heteronormative
+    N>Sense of Place
+    E>Gendered spaces are created when pepole of a shared sexual identity cluster in the same space.
+Q>Areas or neighborhoods within cities that are homogeneous in their ethnic makeup and are usually surrounded by different ethnic groups (e.g., Chinatown).
+    N>Assimilation
+    N>Invasion and Succession
+    N>Forced Migration
+    N>Divergence
+    Y>Ethnic Enclaves
+    E>Ethnic enclaves are neighborhoods with a homogeneous ethnic makeup.
+Q>A language that can't be traced back to other languages and language families through backwards reconstruction. Often found in remote places in the world.
+    Y>Isolated Language
+    N>Extinct Language
+    N>German
+    N>Isogloss
+    N>Latin
+    E>An isolated language can't be traced back to other languages.
+Q>The belief in one god or supreme being (e.g., Judaism, Christianity, and Islam).
+    N>Animistic Religion
+    N>Polytheistic Religion
+    Y>Monotheistic Religion
+    N>Universalizing Religion
+    N>Ethnic Religion
+    E>Monotheistic religions believe in one god or supreme being.
+Q>Places that are designed for men only or women only.
+    N>Sexism
+    N>Gender Inequality Index
+    Y>Gendered Spaces
+    N>Sex Ratio
+    N>Gender Detection Tests
+    E>Gendered spaces are places designed specifically for men or women only.
+Q>A common agreed language of business in an area where people of different native tongues speak different languages.
+    N>Dialect
+    Y>Lingua Franca
+    N>Official Langauge
+    N>Standard Language
+    N>Toponym
+    E>Lingua franca is a common agreed upon language of business among people of different native tongues.
+Q>What we see; the physical objects, resources, and spaces that people use to define their culture.
+    N>Local Culture
+    N>Nonmaterial Culture
+    N>Indigenous Culture
+    N>Authenticity
+    Y>Material Culture
+    E>Material culture is the physical objects people use to define their culture.
+Q>The spread of global culture through a process of interaction and integration among the people, companies, and governments of a different nations (driven by international trade and investment and aided by information technology).
+    N>Local Culture
+    N>GLobal Culture
+    Y>Globalization
+    N>Cultural Region
+    N>Authenticity
+    E>Globalization is the spread of global culture through interaction among people and companies at the global scale.
+Q>A basic trade language that adopts a simplified grammar and limited vocabulary of several languages of different people to trade.
+    N>English
+    N>Latin
+    N>Standard Language
+    Y>Pidgin Language
+    N>Official Language
+    E>A pidgin language is a basic trade language with limited vocabulary.
+Q>The built environment of humans. Buildings, roads, and other structures that humans have created is known as
+    Y>Cultural Landscape
+    N>Cultural Appropriation
+    N>Commodification
+    N>Neolocalism
+    N>Environmental Determinism
+    E>Cultural landscape is the built environment that humans have created.
+Q>The general spread of ideas or material traits from a hearth that continuously grows larger. It can expand in different patterns like hierarchical or contagious.
+    Y>Expansion Diffusion
+    N>Physical Geography
+    N>Sequent Occupance
+    N>Perceptual Region
+    N>Relocation Diffusion
+    E>Expansion diffusion spreads outwards from a hearth and grows continuously larger.
+Q>A combination of different traits that define a particular group of people or culture.
+    N>Nonmaterial Culture
+    N>Cultural Trait
+    N>Sense of Place
+    Y>Cultural Complex
+    N>Local Culture
+    E>Cultural complex is a combination of different traits that define a particular group of people or culture.
+Q>The human imprint on the physical environment (e.g., buildings, signs, fences, and statues).
+    N>Physical Landscape
+    Y>Cultural Landscape
+    N>Nonmaterial Culture
+    N>Cultural Appropriation
+    N>Placelessness
+    E>Cultural landscape is the human imprint on the physical environment.
+Q>A voyage to a place considered sacred for religious purposes.
+    N>Mecca
+    N>Interfaith Boundary
+    N>Secularism
+    N>Invasion and Succession
+    Y>Pilgrimage
+    E>A pilgrimage is a voyage to a place considered sacred. 
+Q>Local or regional characteristics of a language with pronunciation differents and a distinctive grammar and vocabulary.
+    N>Language Groups
+    Y>Dialects
+    N>Lingua Francas
+    N>Pidgin Languages
+    N>Language Families
+    E>Dialects are local or regional variations of a language.
+Q>The method of human communication, either spoken or written, consisting of the use of words in a structured and conventional way.
+    N>Language Branches
+    N>Language Families
+    N>Dialect
+    Y>Language
+    N>Isogloss
+    E>Language is a method of communication in a structured and conventional way.
+Q>Religious movement that seeks a return to the basic foundations and guiding principles of the religion.
+    N>Interfaith Boundaries
+    N>Universalizing Religion
+    Y>Religious Fundamentalism
+    N>Intrafaith Boundaries
+    N>Secularism
+    E>Religious fundamentalism is a religious movement that seeks to return to the basic foundations and principles of the religion.
+Q>A division of a major religion (e.g., Protestant and Catholics within Christianity).
+    N>Syncretism
+    N>Interfaith Boundaries
+    Y>Religious Branches
+    N>Convergence
+    N>Religious Denominations
+    E>Religious branches are divisions of major religions.
+Q>Feelings evoked by people as a result of certain experiences and memories associated with a particular place.
+    N>Formal Region
+    N>Cultural Diffusion
+    N>Functional Region
+    N>Mental Map
+    Y>Sense of Place
+    E>Sense of place is the feelings evoked by certain memories or feelings of a particular place.
+Q>The name givevn to a portion of Earth's surface.
+    N>Dialects
+    Y>Toponym
+    N>Irredentism
+    N>Isogloss
+    N>Lingua Franca
+    E>Toponym is a name given to a place on the Earth's surface.
+Q>Place with extremely deep religious meaning. Something divine or other worldly happened here.
+    Y>Sacred Sites
+    N>Toponym
+    N>Pilgrimage
+    N>Religious Extremism
+    N>Secularism
+    E>Sacred sites are places with extremely deep religious meaning.
+Q>A pidgin language that has developed a more complex structure and vocabulary and becomes the native language of a group of people.
+    N>Langauge Divergence
+    Y>Creole Language
+    N>Dialect
+    N>Official Language
+    N>Accents
+    E>A creole language is a pidgin language that has developed a more complex structure and vocabulary and becomes the native language of a group of people.
+Q>The blending of two languages into one resulting from the consistent spatial interation of peoples with different languages.
+    N>Multilingual States
+    N>Nostratic
+    N>Language Divergence
+    N>Dialect
+    Y>Language Convergence
+    E>Language convergence occurs when two languages blend together into one.
+Q>The concept that language families have a common root in the very distant past.
+    N>Language Family
+    Y>Language Superfamily
+    N>Language Group
+    N>Lingua Franca
+    N>Langauge Conflict
+    E>For example, the Celtic, Germanic, Slavic, Italic, and Indo-Iranian language families are branches of a much larger Indo-European language superfamily.
+Q>Beliefs, customs, art, and traditions that make up the way of life by a specific group of people.
+    N>Toponomy
+    N>Racism
+    N>Globalization
+    N>Placelessness
+    Y>Culture
+    E>Culture is made up of the beliefs, customs, art, and traditions that make up the way of life of a specific group of people.
+Q>Group of languages with a shared origin but fairly distant origin. Linguistics agree on the common origin.
+    N>Language Branches
+    N>Dialects
+    N>Lingua Franca
+    Y>Language Families
+    N>Language Groups
+    E>Language families are groups of languages with a shared but distant origin.
+Q>A center where cultures developed and from which ideas and traditions spread outward.
+    N>Invasion and Succession
+    N>Divergence
+    N>Cultural Diffusion
+    Y>Cultural Hearth
+    N>Acculturation
+    E>A cultural hearth is the center from which a culture develops and spreads.
+Q>A social division based on national origin, religion, language, or other cultural traits.
+    N>Gender
+    Y>Ethnicity
+    N>Syncretism
+    N>Cultural Trait
+    N>Race
+    E>Ethnicity is a social division based upon national origin, religion, language, or other cultural traits.
+Q>Countries in which more than one language is in use.
+    N>Monolingual State
+    N>Frontier
+    Y>Multilingual State
+    N>Language Groups
+    N>Syncretism
+    E>Multilingual states are countries in which more than one language is used.
+Q>The trade in humans, mostly young women, for the purpose of sexual slavery, forced labor, or commercial sexual exploitation.
+    N>Gender Detection Test
+    N>Prostitution
+    N>Sexism
+    Y>Sex Trafficking
+    N>Voluntary Migration
+    E>Sex trafficking is trading in humans for the purpose of sexual exploitation or forced labor.
+Q>Indifference to or rejection or exclusion of religion and religious considerations.
+    N>Interfaith Boundary
+    N>Religious Fundamentalism
+    N>Apartheid
+    Y>Secularism
+    N>Sacred Sites
+    E>Secularism is the indifference to or rejection of religion and religious considerations.
+Q>A widespread diffusion of a culture or cultural trait incorporation a large, heterogeneous population.
+    N>Indigenous Culture
+    Y>Global Culture
+    N>Sense of Place
+    N>Local Culture
+    N>Connectivity
+    E>Global culture encompasses widespread diffusion of a cultural trait in a large, heterogeneous population.
+Q>The spread of an idea through physical movement or migration of people from one place to another.
+    N>Immigration
+    N>Stimulus Diffusion
+    Y>Relocation Diffusion
+    N>Contagious Diffusion
+    N>Emigration
+    E>Relocation diffusion spreads through physical movement.
+Q>The idea of the existence of an ancestral location that connects ancient Latin, Greek, and Sanskrit together.
+    N>Creole Language
+    N>Pidgin Language
+    N>Latin
+    N>Isolated Language
+    Y>Proto-Indo-European Language
+    E>Proto-Indo-European Language is the idea of an ancestral language that connects ancient Latin, Greek, and Sanskrit.
+Q>The marketing of culture or cultural traits by selling products from a local culture to the world.
+    N>Local Culture
+    N>Cultural Relativism
+    N>Identity
+    N>Racism
+    Y>Commodification
+    E>Commodification is the marketing of culture by selling products from local culture to the world.
+Q>
+    N>
+    N>
+    N>
+    N>
+    N>
+    E>
+Q>
+    N>
+    N>
+    N>
+    N>
+    N>
+    E>
+Q>
+    N>
+    N>
+    N>
+    N>
+    N>
+    E>
+Q>
+    N>
+    N>
+    N>
+    N>
+    N>
+    E>
+Q>
+    N>
+    N>
+    N>
+    N>
+    N>
+    E>
+Q>
+    N>
+    N>
+    N>
+    N>
+    N>
+    E>
+Q>
+    N>
+    N>
+    N>
+    N>
+    N>
+    E>
+Q>
+    N>
+    N>
+    N>
+    N>
+    N>
+    E>
+Q>
+    N>
+    N>
+    N>
+    N>
+    N>
+    E>
+Q>
+    N>
+    N>
+    N>
+    N>
+    N>
+    E>
+Q>
+    N>
+    N>
+    N>
+    N>
+    N>
+    E>
+Q>
+    N>
+    N>
+    N>
+    N>
+    N>
+    E>
+Q>
+    N>
+    N>
+    N>
+    N>
+    N>
+    E>
+Q>
+    N>
+    N>
+    N>
+    N>
+    N>
+    E>
