@@ -1,0 +1,92 @@
+Q>Which of the following US regional associations by religion is correct?
+	N>Northwest - Mormon
+	N>Great Basin - Methodist
+	N>New England - Baptist
+	N>Southeast - Roman Catholic
+	Y>Upper Midwest - Lutheran
+	E>Southeast - Baptist; New England - Roman Catholic; Great Basin - Mormon; Northwest - Varying mix of Roman Catholic, Mormon, Assemblies of God, and other no-majority denominations.
+Q>An example of a policy designed to protect local cultures is
+	Y>official bilingualism in Canada
+	N>the diffusion of hip-hop to Arab countries
+	N>demand in the global marketplace for Greek olive oil
+	N>the increasing number of Americans who self-identify as multi-ethnic
+	N>the commodification of Native American cultures, such as the sale of dream-catchers
+	E>The Quebecois are the French-speaking Canadians who live primarily in Quebec. The Canadian government has made French an official language to recognize and affirm Quebecois culture.
+Q>A collection of interrelated culture traits making up a culture is known as a(n)
+	N>anthology
+	Y>complex
+	N>region
+	N>realm
+	N>landscape
+	E>A culture complex is a group of interconnected traits or the group of cultural traits that essentially makes a culture what it is or different from another culture.
+Q>The spread of Islam from its origins in Arabia outward across North Africa and the Middle East would be classified as what kind of diffusion?
+	N>Relocation
+	Y>Contagious
+	N>Stimulus
+	N>Hierarchical
+	N>Migrant
+	E>The early spread of Islam was contagious diffusion because almost everyone who came in contact with it was an adopter.
+Q>The photo shown here BEST illustrates which of the following concepts?
+	I>IMG_0931.PNG
+	Y>Commodification of toponyms
+	N>Forward capital
+	N>Urban sprawl
+	N>Situation
+	N>Urban morphology
+	E>Naming rights for sports stadiums reflect the business or commodification aspect of that industry.
+Q>Which of these groups of world religions is correctly listed from largest to smallest?
+	Y>Christianity - Islam - Hinduism - Buddhism - Sikhism
+	N>Buddhism - Christianity - Islam - Hinduism - Sikhism
+	N>Islam - Christianity - Hinduism - Judaism - Chinese religions
+	N>Christianity - Buddhism - Hinduism - Judaism - Islam
+	N>Islam - Hinduism - Christianity - Buddhism - Sikhism
+	E>Christianity has over 2 billion followeres, Islam has approximately 1.4 billion, Hinduism has about 750 million, Buddhism has approximately 500 million, and Sikhism has about 25 million followers.
+Q>Medieval knights passed each other on their right shoulder side while riding on the road on horseback. Modern Australian motorists drive on the left-hand side of the road. The linkage between these actions is BEST represented by
+	N>migrant diffusion
+	N>relocation diffusion
+	N>hierarchical diffusion
+	Y>stimulus diffusion
+	N>contagious diffusion
+	E>Stimulus diffusion is about the adopter wanting to do, or copy, the trait, innovation, or tool; however, the adopter cannot or will not use that innovation as it is. The innovation is the stimulus for the change or adoption but has to be changed to fit the adopter's culture, needs, etc.
+Q>Which of the following is the most important medium for transmitting culture?
+	N>Religion
+	N>Immigration
+	N>Imitation
+	Y>Language
+	N>Legislation
+	E>Language is what unifies a culture together more than any other trait. It is also the primary vehicle for transmitting, or passing along, cultural information to the next generation, as well as to anyone who interacts with that culture.
+Q>Which statement BEST represents the religious landscape of the regions shown on a map of Russia and its former republics?
+	N>Ukrainian, Russian, and other Slavic languages remain isolated in Siberia
+	N>The hearth of classical architecture and structural innovations is in the Eastern Hemisphere
+	N>The area of greatest Catholic influence is a band across Russia and Central Asia
+	N>Europe and Asia are closely connected by migration patterns
+	Y>The influence of Eastern Orthodox is widespread throughout Eastern Europe and Russia
+	E>THe Orthodox Christian tradition was strong before the rise of the Soviet Union. After the fall of the USSR in 1991, many people went back to their Orthodox traditions.
+Q>The term placelessness is BEST represented by
+	N>a mosque located in Mecca
+	N>the western wall in Jerusalem
+	N>a store selling Native American trinkets in southwest Arizona
+	N>a South African women selling homemade traditional dolls on a street corner in Johanesburg
+	Y>a gas station located off of an exit to interstate 75 in Georgia
+	E>Placelessness is associated with global culture and is characterized by homogeneity of the landscape—seeing the same types and brands of goods and services, no matter where you are.
+Q>New Hampshire and New Jersey put familiar names on strange new lands for pilgrims. The spread of these toponyms is what type of diffusion?
+	N>Stimulus diffusion
+	N>Contagious diffusion
+	N>Chain diffusion
+	N>Hierarchical diffusion
+	Y>Relocation diffusion
+	E>Relocation diffusion occurs when people move and take their culture, ideas, innovations, and other human traits with them. Renaming places after those where migarnts came from is an affect of relocation diffusion (e.g., Hampshire, England and the Isle of Jersey, an island between England and France).
+Q>The ideologies of the perpetrators of the September 11th attacks on the United States might have been motivated by which of the following?
+	N>contagious diffusion of radical ideologies
+	N>time-space compression
+	Y>opposition to globalization
+	N>cultural appropriation
+	N>cultural assimilation
+	E>Many religious extremists are opposed to globalization in the form of Western lifestyles, consumerism, and secularism. Many feel these Western values and norms are being forced on them.
+Q>In which of the following countries is one most likely to find speakers whose native language belongs to the Uralic language family?
+	N>Sri Lanka
+	N>Libya
+	N>Guyana
+	Y>Estonia
+	N>Haiti
+	E>The Uralic languages take their name from the Ural Mountains and include languages like Hungarian, Finnish, and Estonia, which provides many questions about early diffusion. Also, there are many Uralic speakers in Russia.
