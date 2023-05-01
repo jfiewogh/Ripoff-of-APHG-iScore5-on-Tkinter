@@ -1,0 +1,252 @@
+Q>Forces that tend to divide or cause conflict within a state.
+	N>Centripetal Forces
+	N>Nationalism
+	N>Supernationalism
+	Y>Centrifugal Forces
+	N>Sovereignty
+	E>Centrifugal forces divide or cause conflict within a state.
+Q>The drawing of voting districts for political advantage to a particular political group.
+	N>Redistricting
+	N>Malapportionment
+	N>Reapportionment
+	N>Balkanization
+	Y>Gerrymandering
+	E>Gerrymandering is the drawing of voting districts for political advantage for one political group over another.
+Q>Sometimes called geographically disadvantaged states, these states are completely surrounded by other states and have no access to the sea.
+	N>Perforated State
+	N>Shatterbelt
+	Y>Landlocked State
+	N>Prorupted State
+	N>Unitary State
+	E>Landlocked states are completely surrounded by other states and do not have access to the sea.
+Q>The attachment to or pride in one's nation and/or state above all other nations or states.
+	Y>Nationalism
+	N>Stateless Nation
+	N>Fragmented State
+	N>Centrifugal Force
+	N>Supranationalism
+	E>Nationalism is pride in one's nation and/or state above all other nations or states.
+Q>Political boundaries usually drawn in straight lines which follow lines of latitude or longitude.
+	Y>Geometric Boundary
+	N>Frontier
+	N>Relic Boundary
+	N>East/West divide
+	N>Superimposed Boundary
+	E>Geometric boundaries are straight lines which follow latitude anad longitude.
+Q>Boundaries which are drawn using physical features such as rivers or mountains to delimit territory.
+	N>Frontier
+	N>Subsequent Boundary
+	Y>Physical Boundary
+	N>Shatter Belt
+	N>Relic Boundary
+	E>Physical boundaries are drawn using physical features to delimit territory.
+Q>An area of geopolitical weakness which is prone to states in that region breaking into pieces and forming new states.
+	N>Centripetalism
+	N>Subsequent Boundary
+	N>Rust Belt
+	N>Supranationalism
+	Y>Shatter Belt
+	E>Shatterbelts are areas of geopolitical weakness prone to breaking into pieces and forming new states.
+Q>Forces that tend to unite or bind a state together.
+	N>Centrifugal Forces
+	N>Divergence
+	N>Balkanization
+	N>Devolution
+	Y>Centripetal Forces
+	E>Centripetal forces unite a state.
+Q>Establishment of voting districts based on population as designated by the census taken every 10 years.
+	Y>Reapportionment
+	N>Malapportionment
+	N>Relic Boundary
+	N>Gerrymandering
+	N>Redistricting
+	E>Reapportionment is the process of establishing voting districts based on new census data every 10 years.
+Q>The study of political forces, power, and boundaries between and among states.
+	N>Cultural Geography
+	Y>Political Geography
+	N>Urban Geography
+	N>Economic Geography
+	N>Political Science
+	E>Political geography is the study of political forces, boundaries, and power between states.
+Q>The study of the relationships between geography, power, politics, and international relations.
+	N>Peace of Westphalia
+	N>Supranationalism
+	Y>Geopolitics
+	N>Sovereignty
+	N>Nationalism
+	E>Geopolitics is the study of relationships between states.
+Q>Boundary established in or between states by outside states or forces without regard for existing cultural or political systems.
+	N>Subsequent Boundary
+	N>Redistricting
+	Y>Superimposed Boundary
+	N>Relic Boundary
+	N>Frontier
+	E>Superimposed boundaries are established by outside states without regard for existing cultural or political boundaries.
+Q>Politically organized area that possesses government, population, and territory that is recognized by the international community as existing.
+	N>Region
+	Y>State
+	N>Nation
+	N>Irredentism
+	N>District
+	E>A state is a politically organized area that has sovereignty.
+Q>Expansionist policies of colonial power that established political, economic, social, and territorial dominion over another state or territory.
+	N>Supranationalism
+	N>Nationalism
+	N>Irredentism
+	Y>Imperialism
+	N>Sovereignty
+	E>Imperialism is a colonial expansionist policy over already established territory.
+Q>International statutes by the United Nations that established territorial sea limits and economic uses of the sea, seabed, and subsoil of the sea.
+	N>Treaty of Versailles
+	Y>Law of the Sea
+	N>Kyoto Protocol
+	N>Peace of Westphalia
+	N>Fragmented State
+	E>The Law of the Sea establishes territorial and economic limits on the seas.
+Q>Particularly in the 1700s through 1945, the military occupation by an outside state for the purposes of controlling and exploiting that territory usually for economic purposes.
+	N>Supernationalism
+	Y>Colonialism
+	N>Unitary State
+	N>Federal State
+	N>Nationalism
+	E>Colonialism is the military occupation of territory for the purposes of controlling and exploiting a territory for economic purposes.
+Q>A piece of territory that is surrounded by another state (or political unit) of which it is not a part.
+	Y>Enclave
+	N>Syncretism
+	N>Exclave
+	N>Irredentism
+	N>Invasion and Succession
+	E>An enclave is a territory completely surrounded by another territory.
+Q>States that have a strong central government where power is distributed to geographical sub-state units.
+	Y>Federal State
+	N>Fragmented State
+	N>Compact State
+	N>Microstate
+	N>Unitary State
+	E>Federal states have a strong central government and distribute power to sub-state units.
+Q>The pressure placed on the state by a sub-state unit, the ceding of power from the state to a sub-state unit, or the breaking apart of a state into smaller political states.
+	N>Centripetal Force
+	N>Supranationalism
+	Y>Devolution
+	N>Nationalism
+	N>Syncretism
+	E>Devolution is pressure placed on a sub-state unit to break apart or the creding of power from the state to a sub-state unit.
+Q>Group of people who share common traits such as language, religion, ethnicity, world views, and other cultural characteristics.
+	Y>Nation
+	N>State
+	N>Unitary State
+	N>Supranationalism
+	N>Nation-State
+	E>A nation is a group of people who share common cultural characteristics.
+Q>A bounded, non-island territory that is completely surrounded by another state or a relatively distinct group of people (e.g., religion, language, ethnicity) and is physically separated from its motherland state.
+	N>Frontier
+	Y>Exclave
+	N>Landlocked State
+	N>Enclave
+	N>Irredentism
+	E>Exclaves are bounded, non-island territories completely surrounded by another territory and separated from the rest of its territory.
+Q>A region where smaller and/or weaker states may receive pressure for territory and/or resources from larger, more powerful states, which may result in a state breaking into smaller political states.
+	N>Supranationalism
+	N>Centripetal Force
+	N>Organic Theory
+	Y>Shatterbelt
+	N>Nationalism
+	E>Large and/or powerful states may seize territory and/or resources in regions that are strategic to the larger, more powerful states. Examples are the Caucasus, the Balkans, Southwest Asia, and others.
+Q>Conference held in 1884–1885 where European powers regulated trade, commerce, and territory in Africa.
+	Y>Berlin Conference
+	N>Kyoto Protocol
+	N>Law of the Sea
+	N>Treaty of Versailles
+	N>Peace of Westphalia
+	E>The Berlin Conference of 1884–1885 was when European powers regulated trade and territory in Africa.
+Q>State whose territory corresponds with the nation of people residing in it.
+	N>Multinational State
+	N>Nation
+	Y>Nation-State
+	N>Stateless Nation
+	N>Fragmented State
+	E>A nation-state is a state whose territory corresponds with the nation of people residing in it.
+Q>When three or more states join in an agreement together (e.g., politically, economically, etc.) for common purposes. Each state gives up some form of sovereignty in the agreement.
+	N>NAFTA
+	N>Nationalism
+	N>Secularism
+	N>Balkanization
+	Y>Supranationalism
+	E>Supranationalism is when three or more states join in a political or economic agreement for common purposes, giving up some of their own sovereignty in the agreement.
+Q>Boundary that was established before an area was populated. Many times, these boundaries were made made along physical geographic features.
+	Y>Antecedent Boundary
+	N>Relic Boundary
+	N>Physical Boundary
+	N>Geometric Boundary
+	N>Superimposed Boundary
+	E>Antecedent boundaries are ones created before the current cultural landscape developed.
+Q>The process of drawing new electoral district boundaries to match population changes.
+	N>Geopolitics
+	N>Malapportionment
+	N>Reapportionment
+	N>Balkanization
+	Y>Redistricting
+	E>Redistricting is the process of drawing new electoral district boundaries to match changes in population.
+Q>Nation of people who do not have a corresponding territorial control to where they live.
+	N>Nation
+	N>Microstate
+	Y>Stateless Nation
+	N>Supranationalism
+	N>Nation-State
+	E>Stateless nations are made up of people who do not have a corresponding territorial control to where they live.
+Q>The deliberate attempt to destroy an ethnic or cultural group through mass killing is known as
+	N>Apartheid
+	N>Gendered
+	Y>Genocide
+	N>Infanticide
+	N>Gendercide
+	E>Genocide is the deliberate elimination of a group of people, usually based on ethnicity or nationality.
+Q>Political boundary that no longer exists and may not be visible on the landscape.
+	N>Geometric Boundary
+	N>Superimposed Boundary
+	N>Frontier
+	N>Antecedent Boundary
+	Y>Relic Boundary
+	E>Relic boundaries are political boundaries that no longer exist.
+Q>Right of a state to determine its own affairs. 
+	N>Irredentism
+	N>Nationalism
+	N>Supranationalism
+	Y>Sovereignty
+	N>Stateless Nation
+	E>Sovereignty is the right of a state to determine its own affairs.
+Q>A political movement that intends to reclaim territory that was lost to another state; unredeemed territory.
+	N>Spatial Distribution
+	N>Nation
+	N>Reterritorialization
+	N>Supranationalism
+	Y>Irredentism
+	E>Irredentism is a political movement to reclaim territory that was lost to another state.
+Q>Capital city moved by a state for political, strategic, or economic purposees and as a statement and possible intent of action to its neighbors.
+	N>Invasion and Succession
+	N>Organic Theory
+	N>Devolution
+	Y>Forward Capital
+	N>Frontierism
+	E>Forward capitals are moved by the state for political or economic purposes.
+Q>Boundary established that has the cultural, political, and social characteristics of the groups that have settled or occupied territory. 
+	N>Redistricting
+	N>Relic Boundary
+	N>Compact State
+	Y>Subsequent Boundary
+	N>Geometric Boundary
+	E>Subsequent boundaries have the cultural, political, and social characteristics of the groups that have settled territory.
+Q>A voting district aligned where the overall minority population in the state is actually the majority population of that voting district.
+	N>East/West divide
+	Y>Majority-Minority district
+	N>Apartheid
+	N>Balkanization
+	N>North/South Divide
+	E>Majority-minority district is where the minority population of a state is the majority in a specific voting district.
+Q>A loosely defined border on the edge of a state where it meets the border of another state; more of a zone than border.
+	Y>Frontier
+	N>Superimposed Boundary
+	N>Relic Boundary
+	N>Enclave
+	N>Physical Boundary
+	E>A frontier is a loosely defined border along the edge of a state.
